@@ -1,0 +1,224 @@
+Event	ID	Name			Wwise Object Path	Notes
+	365318234	Play_Respawn			\Default Work Unit\PlayerSounds\Play_Respawn	
+	396423648	Play_Ball_Collision			\Default Work Unit\Objects\Play_Ball_Collision	
+	462203265	Super_Jump			\Default Work Unit\PlayerSounds\Super_Jump	
+	761761105	Key_Pickup			\Default Work Unit\Objects\Key_Pickup	
+	763319999	Stop_Jump_Gem_Ambience			\Default Work Unit\Objects\Stop_Jump_Gem_Ambience	
+	913957623	Play_Falling			\Default Work Unit\PlayerSounds\Play_Falling	
+	1083284480	Stop_Powered_Up			\Default Work Unit\PlayerSounds\Stop_Powered_Up	
+	1259931422	Play_Island_Movement_Start			\Default Work Unit\WorldSounds\Play_Island_Movement_Start	
+	1384689920	Play_Island_Movement_Loop			\Default Work Unit\WorldSounds\Play_Island_Movement_Loop	
+	1602358412	Play_Footstep			\Default Work Unit\PlayerSounds\Play_Footstep	
+	1660008929	Play_Door_Open			\Default Work Unit\Objects\Play_Door_Open	
+	1929098420	Super_Jump_Gem_Ambience			\Default Work Unit\Objects\Super_Jump_Gem_Ambience	
+	2157629475	SuperJumpGemPickup			\Default Work Unit\Objects\SuperJumpGemPickup	
+	2194294410	Stop_Magic_Platform_Grind			\Default Work Unit\WorldSounds\Stop_Magic_Platform_Grind	
+	2311786831	Play_Magic_Platform			\Default Work Unit\WorldSounds\Play_Magic_Platform	
+	2323405115	Play_Landing			\Default Work Unit\PlayerSounds\Play_Landing	
+	2453267296	Play_Victory			\Default Work Unit\WorldSounds\Play_Victory	
+	2831328282	Play_Powered_Up			\Default Work Unit\PlayerSounds\Play_Powered_Up	
+	2890489828	Play_Exterior			\Default Work Unit\WorldSounds\Play_Exterior	
+	2962822744	Play_Checkpoint			\Default Work Unit\Objects\Play_Checkpoint	
+	3031291544	Stop_Key_Ambience			\Default Work Unit\Objects\Stop_Key_Ambience	
+	3194742525	Key_Ambience			\Default Work Unit\Objects\Key_Ambience	
+	3196500978	Play_Lever			\Default Work Unit\Objects\Play_Lever	
+	3304501004	Play_Special_Coin_Pickup			\Default Work Unit\Objects\Play_Special_Coin_Pickup	
+	3396348501	Stop_Falling			\Default Work Unit\PlayerSounds\Stop_Falling	
+	3536498653	Play_Inside_Sounds			\Default Work Unit\WorldSounds\Play_Inside_Sounds	
+	3615788468	Play_Coin_Pickup			\Default Work Unit\Objects\Play_Coin_Pickup	
+	3687494018	Play_Interior			\Default Work Unit\WorldSounds\Play_Interior	
+	3770282852	Play_Magic_Platform_Grind			\Default Work Unit\WorldSounds\Play_Magic_Platform_Grind	
+	3877792414	Play_Wind_Wisp			\Default Work Unit\WorldSounds\Play_Wind_Wisp	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	442453602	Footstep_Switch			\Default Work Unit\Footstep_Switch	
+
+Switch	ID	Name	Switch Group			Notes
+	321589239	RockPM	Footstep_Switch			
+	898444711	WoodPM	Footstep_Switch			
+	2678164575	ClayPM	Footstep_Switch			
+	2895280211	MetalPM	Footstep_Switch			
+	3214217836	TilePM	Footstep_Switch			
+	3927842460	GrassPM	Footstep_Switch			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2491380146	Shelter_State			\Default Work Unit\Shelter_State	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	Shelter_State			
+	748895195	None	Shelter_State			
+	3553349781	Inside	Shelter_State			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	221543437	Outside	Shelter_State	\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\Inside Ambience		
+	340111332	Outside	Shelter_State	\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\InsideSounds		
+	672274322	Inside	Shelter_State	\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\Outside Ambience		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	188993186	Magic_Platform_RTPC			\Default Work Unit\Magic_Platform_RTPC	
+	281531756	Island_RTPC			\Default Work Unit\Island_RTPC	
+	637214656	Metal_Ball_RTPC			\Default Work Unit\Metal_Ball_RTPC	
+	1062779386	Player_Speed			\Default Work Unit\Player_Speed	
+	1161266477	Ambience_RTPC			\Default Work Unit\Ambience_RTPC	
+	1564184899	SFX_Volume			\Default Work Unit\SFX_Volume	
+	3983539510	Falling_Speed			\Default Work Unit\Falling_Speed	
+	4179668880	Master_Volume			\Default Work Unit\Master_Volume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	2609808943	World			\Default Work Unit\Master Audio Bus\World	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	LIST OF REQUIREMENTS  movements: - [ ] life layer - bag,clothes (3-5 Variations)  footsteps: - [ ] walk - [ ] run - [ ] sprint (run rtpc) - [ ] jump - [ ] super high jump  floor materials: (5 run variations for each) - [ ] grass - [ ] wood - [ ] tile - [ ] metal - [ ] rocks  Ambience: - [ ] music - [ ] INT - room tone with reverbs with size - [ ] EXT - room tone with reverbs with size  - [ ] moving island (event created in wwise. timeline done in Unreal) - [ ] coin pick up (3-5 variations) - [ ] key pick up (3-5 variations) - [ ] gem pick up (3-5 variations) - [ ] jump gem - [ ] check points - [ ] player movements - [ ] falling/ dying - [ ] Respawn - [ ] jumping - [ ] power up state (3 variations) - [ ] ball - collision sound - [ ] door opening - [ ] door switch - [ ] finish game - [ ] stop actor  moving: - [ ] 3 islands - [ ] platforms (event created in wwise. timeline done in Unreal)
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1237654756	Interior_Reverb			\Default Work Unit\Master Audio Bus\World\Interior_Reverb	
+	1432176794	Exterior_Reverb			\Default Work Unit\Master Audio Bus\World\Exterior_Reverb	
+	2224154988	Interior_Small_Reverb			\Default Work Unit\Master Audio Bus\World\Interior_Small_Reverb	
+	2652468637	Interior_Large			\Default Work Unit\Master Audio Bus\World\Interior_Large	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	61929476	Wwise_Time_Stretch_(Custom)	Wwise Time Stretch			
+	287224143	New_Wwise_Time_Stretch	Wwise Time Stretch			
+	418265525	Gentle_Program_Compressor_Minus_14dB_RMS	Wwise Compressor			
+	458586249	Wwise_Time_Stretch_(Custom)	Wwise Time Stretch			
+	484890516	Church_Small_Wood	Wwise RoomVerb			
+	984005536	Wwise_Time_Stretch_(Custom)	Wwise Time Stretch			
+	1520064353	Hall_Medium_Bright	Wwise RoomVerb			
+	2945072214	My_Closet	Wwise RoomVerb			
+	3701691487	Hall_Large_Bright	Wwise RoomVerb			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	46127749	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Heavy\Silence_01\Wwise Silence	
+	221181833	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Heavy\Silence_02\Wwise Silence	
+	260065539	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Light\Silence\Wwise Silence	
+	312931384	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Silence_02\Wwise Silence	
+	506415006	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Silence_01\Wwise Silence	
+	694541625	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Silence_03\Wwise Silence	
+	730915789	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Silence_03\Wwise Silence	
+	744985331	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Silence\Wwise Silence	
+	824122288	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Heavy\Silence\Wwise Silence	
+	905701050	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Silence_01\Wwise Silence	
+	1024254578	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Silence_02\Wwise Silence	
+	1070080725	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	9996120	Creak5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Creak5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\InsideSounds\Creak5		576064
+	12383539	RoofStep3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep3		96064
+	18267709	RoofStep2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep2		96064
+	33847452	TileStep3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\TileStep3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Tile\TileStep3		96064
+	45417196	Button	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CheckPoint_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Checkpoint\CheckpointBlend\Button		147200
+	54123048	GrassStep3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep3		96064
+	60814287	TileStep4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\TileStep4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Tile\TileStep4		96064
+	69720093	CoinDrop2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinDrop2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Drop\CoinDrop2		96064
+	71403579	BallHitTemp	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\BallHitTemp_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\GoldenObjects\MetalBallHit\BallHitTemp		360064
+	77106218	KeyPickupFlair3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupFlair3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Flair\KeyPickupFlair3		288216
+	78184136	GrassStep5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep5		96064
+	88218077	RockStep4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep4		45068
+	91259736	DoorOpen	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\DoorOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Buildings\DoorOpen		530432
+	102842816	KeyPickupBase2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupBase2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Base\KeyPickupBase2		288216
+	106245308	CoinDrop3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinDrop3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Drop\CoinDrop3		96064
+	108884551	Creak1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Creak1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\InsideSounds\Creak1		879452
+	109873595	WoodStep5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep5		108064
+	127750067	Victory	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Victory_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Victory		576064
+	131368853	Jingle8	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle8-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle8		42868
+	134115205	CoinShake3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinShake3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Shake\CoinShake3		96064
+	136612189	Outside Ambience	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Wind-1_CDCC75B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\Outside Ambience		24351844
+	136818652	Leather3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather3		108828
+	147005123	WoodStep2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep2		96064
+	160974371	KeyPickupbody3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupbody3-1_2CEB04F1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Body\KeyPickupbody3		222784
+	161269392	KeyPickupBody1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupBody1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Body\KeyPickupBody1		288216
+	170466456	WoodStep1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep1		96064
+	175726076	SuperJumpGemPickup	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\SuperJumpGemPickup-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\SuperJumpPickupBlend\SuperJumpGemPickup		661568
+	177479202	WoodStep4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep4-1_6F75D8D5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep4		89156
+	177700433	CloakL4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakL4-1_A1C4EF6C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Light\CloakL4		109924
+	182910896	Leather2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather2		113416
+	189727170	KeyAmbience	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyAmbience-1_B6B62BC5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyAmbience		840128
+	191323320	RoofStep1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep1		100444
+	192560511	Crumble	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockCrumbleStart-1_7FC7CFA6.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MoveStart\Crumble		153664
+	222612392	WoodStep7	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep7-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep7		96064
+	231640937	Leather8	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather8-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather8		96064
+	237288612	CloakL3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakL3-1_00F50BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Light\CloakL3		69520
+	243490228	GrassStep4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep4		96064
+	245607280	Jingle4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle4		96064
+	247487867	MetalLayer	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MetalLayer-1_4B3B5D78.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\MagicPlatformMixer\MetalLayer		528128
+	256240134	SuperJump	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\SuperJump-1_C7E08968.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\SuperJump		153664
+	262621366	CoinShake4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinShake4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Shake\CoinShake4		96064
+	293855609	Jingle5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle5		96064
+	295072375	RockStep3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep3		96064
+	316215694	WoodStep6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep6-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep6		96064
+	346660700	MetalStep4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MetalStep4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Metal\MetalStep4		96064
+	356933101	Base	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinPickupBase-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Base		96064
+	359789919	GrassStep2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep2		96064
+	367972009	Leather7	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather7-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather7		96064
+	372427989	CloakL2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakL2-1_48936A2A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Light\CloakL2		76564
+	381563616	Leather1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather1		115236
+	385884363	Leather6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather6-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather6		96064
+	393514721	GrassStep6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep6-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep6		96064
+	399410358	String	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyBase-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Base\String		312064
+	404779585	CloakL1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakL1-1_D05C545A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Light\CloakL1		60428
+	406013235	Leather5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather5		96064
+	412011392	MetalStep2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MetalStep2-1_1A6A859E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Metal\MetalStep2		93884
+	413501802	Creak2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Creak2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\InsideSounds\Creak2		708908
+	428662016	RumbleLoop	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockRumble-1_0B63A439.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MovingLoop\RumbleLoop		166008
+	436948502	KeyPickupBody2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupBody2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Body\KeyPickupBody2		288216
+	439735778	CloakH3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakH3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Heavy\CloakH3		96064
+	462137150	RockStep7	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep7-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep7		96064
+	464197541	WindWisp	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WindWispLoop-1_7383DAA7.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\WindWisp		5376128
+	464914975	CoinShake2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinShake2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Shake\CoinShake2		96064
+	472746676	TileStep2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\TileStep2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Tile\TileStep2		96064
+	473270467	CoinPickupSpecial	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinSpecialPickup-1_3911EF6F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickupSpecial		240064
+	474483314	WoodStep3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\WoodStep3-1_68E1E4A4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Wood\WoodStep3		88792
+	476011641	Whistle	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\FallingWhistle-1_14E26672.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Falling\Whistle		481088
+	483669066	KeyPickupFlair2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupFlair2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Flair\KeyPickupFlair2		288216
+	484116165	Creak3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Creak3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\InsideSounds\Creak3		768064
+	485588584	Inside Ambience	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\ShelteredWind-1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\Inside Ambience		41299920
+	493902237	RockDust1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockDust1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MovingLoop\Dust\RockDust1		392424
+	498775986	Lever	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\DoorLever_AC6347C9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Buildings\Lever		168064
+	508784097	RockDust2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockDust2-1_F0C1FC1B.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MovingLoop\Dust\RockDust2		1152064
+	519866465	Respawn	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Respawn_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Respawn		408064
+	532314367	TileStep1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\TileStep1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Tile\TileStep1		96064
+	553012594	CloakH2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakH2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Heavy\CloakH2		108064
+	555303054	Jingle9	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle9-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle9		96064
+	563158298	CloakH	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakH-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Heavy\CloakH		109624
+	563926411	PoweredUpEnd	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\PoweredUpEnd_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\PoweredUpEnd		266652
+	573622197	JumpGemAmbient	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\JumpGemAmbient-1_92DB0BA2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\JumpGemAmbient		831488
+	592204924	GemMagic1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GemMagic1-1_12CB8133.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\SuperJumpPickupBlend\GemMagic\GemMagic1		288064
+	596923418	AirLayer	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MagicPlatform-1_F9E39641.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\MagicPlatformMixer\MagicPlatformBlend\AirLayer		528128
+	611973476	PoweredUpMagic3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\PoweredUpMagic3_124F56FB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\PoweredUp\Magic\PoweredUpMagic3		936540
+	614950638	Jingle3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle3-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle3		96064
+	624915726	Jingle7	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle7-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle7		96064
+	638393009	CloakL5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CloakL5-1_BBF5342C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Cloak\Light\CloakL5		62972
+	664339220	RockStep6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep6-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep6		96064
+	677517954	Jingle6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle6-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle6		96064
+	696229919	Leather9	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather9-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather9		96064
+	716102714	RockDust3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockDust3-1_A262C8C8.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MovingLoop\Dust\RockDust3		495424
+	717222061	Impact	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockMoveStart-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MoveStart\Impact		209588
+	724599009	RoofStep4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep4		96064
+	732420711	RoofStep6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep6		96064
+	753280029	TileStep6	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\TileStep6-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Tile\TileStep6		96064
+	753631205	CoinDrop4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinDrop4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Drop\CoinDrop4		96064
+	777671631	GemMagic2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GemMagic2-1_926DC162.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\SuperJumpPickupBlend\GemMagic\GemMagic2		268864
+	784285140	PoweredUpMagic1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\PoweredUpMagic1_710DAD6E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\PoweredUp\Magic\PoweredUpMagic1		936540
+	789931617	Wind	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\FallingHeavyWind-1_27381322.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Falling\Wind		2689896
+	804001930	Heartbeat	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\PoweredUpHeartbeat_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\PoweredUp\Heartbeat		936476
+	808494705	MetalStep5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MetalStep5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Metal\MetalStep5		96064
+	827954759	GrassStep1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep1		96064
+	834916926	MetalStep1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MetalStep1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Metal\MetalStep1		96064
+	835423382	GemMagic3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GemMagic3-1_83AD242B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\SuperJumpPickupBlend\GemMagic\GemMagic3		216428
+	846610342	Jingle2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Jingle2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Jingle\Jingle2		96064
+	874030018	RockStep2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep2-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep2		96064
+	875124140	CoinDrop1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinDrop1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Drop\CoinDrop1		96064
+	919819932	PoweredUpMagic2	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\PoweredUpMagic2_40F4F3D4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\PoweredUp\Magic\PoweredUpMagic2		936540
+	935998398	Creak4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Creak4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Interior & Exterior\InsideSounds\Creak4		680756
+	936077090	MetalStep3	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\MetalStep3-1_1B21EC6A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Metal\MetalStep3		93156
+	943873611	WindLoop	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockWind-1_E845AC63.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\Islands\Moving Island\MovingLoop\WindLoop		797664
+	969875661	RockStep5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep5		48064
+	979207455	TileStep5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\TileStep5-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Tile\TileStep5		96064
+	982834394	Landing	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\SuperJumpGemPickup-1_96FF2D7F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Landing		134464
+	991661040	RockStep1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RockStep1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Rock\RockStep1		96064
+	998780530	GrassStep7	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\GrassStep7-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\Grass\GrassStep7		96064
+	1009839511	RoofStep7	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep7		96064
+	1027164499	CoinShake1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\CoinShake1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Coins\CoinPickup\Shake\CoinShake1		96064
+	1039593947	KeyPickupFlair1	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\KeyPickupFlair1-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objects\Key & Gem\KeyPickup\Flair\KeyPickupFlair1		288216
+	1041210300	RoofStep5	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\RoofStep5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Footsteps\RoofClay\RoofStep5		108064
+	1052280514	Leather4	J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\SFX\Leather4-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Movement\Leather\Leather4		96064
+

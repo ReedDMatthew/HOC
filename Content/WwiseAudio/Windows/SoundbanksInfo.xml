@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="2130109630">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="1237654756" Name="Interior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Reverb" GUID="{4506CD56-FDAB-4C07-B857-793E441FCF91}"/>
+				<AuxBus Id="1432176794" Name="Exterior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Exterior_Reverb" GUID="{420C488E-612A-4DC7-9ED7-E7CEB977D43E}"/>
+				<AuxBus Id="2224154988" Name="Interior_Small_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Small_Reverb" GUID="{C367B954-D858-4EE8-BF04-B3D78F2BAB0A}"/>
+				<AuxBus Id="2652468637" Name="Interior_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Large" GUID="{9C962A20-0F04-41E5-A994-EA4ECAA67272}"/>
+			</IncludedAuxBusses>
+			<GameParameters>
+				<GameParameter Id="1006694123" Name="Music_Volume" ObjectPath="\Game Parameters\Default Work Unit\Music_Volume" GUID="{3E54A991-D4FB-4A76-8B61-B6AAFD73341A}"/>
+				<GameParameter Id="1564184899" Name="SFX_Volume" ObjectPath="\Game Parameters\Default Work Unit\SFX_Volume" GUID="{E255F143-FDD6-4C6F-99DB-46BBDD35CB50}"/>
+				<GameParameter Id="4179668880" Name="Master_Volume" ObjectPath="\Game Parameters\Default Work Unit\Master_Volume" GUID="{416668FD-1668-40C4-94E9-31B69812AEE1}"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3161908922" GUID="{62AE8E54-4BB5-4129-9F94-BFA041EFC439}" Language="SFX" Hash="3697304619">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3194742525" Name="Key_Ambience" ObjectPath="\Events\Default Work Unit\Objects\Key_Ambience" GUID="{DE371FEA-845E-42C0-A81D-6FEB3A84E75A}" MaxAttenuation="2000." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="189727170" Language="SFX">
+							<ShortName>KeyAmbience-1.wav</ShortName>
+							<Path>SFX\KeyAmbience-1_B6B62BC5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="761761105" Name="Key_Pickup" ObjectPath="\Events\Default Work Unit\Objects\Key_Pickup" GUID="{1053F45B-AC98-4409-ADF1-0EE817C485BF}" DurationType="OneShot" DurationMin="1.606335" DurationMax="1.634414">
+					<IncludedMemoryFiles>
+						<File Id="77106218" Language="SFX">
+							<ShortName>KeyPickupFlair3-1.wav</ShortName>
+							<Path>SFX\KeyPickupFlair3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="102842816" Language="SFX">
+							<ShortName>KeyPickupBase2-1.wav</ShortName>
+							<Path>SFX\KeyPickupBase2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="160974371" Language="SFX">
+							<ShortName>KeyPickupbody3-1.wav</ShortName>
+							<Path>SFX\KeyPickupbody3-1_2CEB04F1.wem</Path>
+						</File>
+						<File Id="161269392" Language="SFX">
+							<ShortName>KeyPickupBody1-1.wav</ShortName>
+							<Path>SFX\KeyPickupBody1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="399410358" Language="SFX">
+							<ShortName>KeyBase-1.wav</ShortName>
+							<Path>SFX\KeyBase-1_10C4C929.wem</Path>
+						</File>
+						<File Id="436948502" Language="SFX">
+							<ShortName>KeyPickupBody2-1.wav</ShortName>
+							<Path>SFX\KeyPickupBody2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="483669066" Language="SFX">
+							<ShortName>KeyPickupFlair2-1.wav</ShortName>
+							<Path>SFX\KeyPickupFlair2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="1039593947" Language="SFX">
+							<ShortName>KeyPickupFlair1-1.wav</ShortName>
+							<Path>SFX\KeyPickupFlair1-1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="396423648" Name="Play_Ball_Collision" ObjectPath="\Events\Default Work Unit\Objects\Play_Ball_Collision" GUID="{18049F70-4866-4793-8F1B-9ABD01D9E60F}" MaxAttenuation="2000." DurationType="OneShot" DurationMin="1.488189" DurationMax="2.362352">
+					<IncludedMemoryFiles>
+						<File Id="71403579" Language="SFX">
+							<ShortName>BallHitTemp.wav</ShortName>
+							<Path>SFX\BallHitTemp_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2962822744" Name="Play_Checkpoint" ObjectPath="\Events\Default Work Unit\Objects\Play_Checkpoint" GUID="{0B1F0C5B-F1EC-48E9-8201-8FB805F4A59A}" DurationType="OneShot" DurationMin="0.744517" DurationMax="0.788789">
+					<IncludedMemoryFiles>
+						<File Id="45417196" Language="SFX">
+							<ShortName>CheckPoint.wav</ShortName>
+							<Path>SFX\CheckPoint_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3615788468" Name="Play_Coin_Pickup" ObjectPath="\Events\Default Work Unit\Objects\Play_Coin_Pickup" GUID="{6F1F56F4-6D9A-4CF1-9EA3-258ABE62239E}" DurationType="OneShot" DurationMin="0.49141" DurationMax="0.511687">
+					<IncludedMemoryFiles>
+						<File Id="69720093" Language="SFX">
+							<ShortName>CoinDrop2-1.wav</ShortName>
+							<Path>SFX\CoinDrop2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="106245308" Language="SFX">
+							<ShortName>CoinDrop3-1.wav</ShortName>
+							<Path>SFX\CoinDrop3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="134115205" Language="SFX">
+							<ShortName>CoinShake3-1.wav</ShortName>
+							<Path>SFX\CoinShake3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="262621366" Language="SFX">
+							<ShortName>CoinShake4-1.wav</ShortName>
+							<Path>SFX\CoinShake4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="356933101" Language="SFX">
+							<ShortName>CoinPickupBase-1.wav</ShortName>
+							<Path>SFX\CoinPickupBase-1_10C4C929.wem</Path>
+						</File>
+						<File Id="464914975" Language="SFX">
+							<ShortName>CoinShake2-1.wav</ShortName>
+							<Path>SFX\CoinShake2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="753631205" Language="SFX">
+							<ShortName>CoinDrop4-1.wav</ShortName>
+							<Path>SFX\CoinDrop4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="875124140" Language="SFX">
+							<ShortName>CoinDrop1-1.wav</ShortName>
+							<Path>SFX\CoinDrop1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="1027164499" Language="SFX">
+							<ShortName>CoinShake1-1.wav</ShortName>
+							<Path>SFX\CoinShake1-1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1660008929" Name="Play_Door_Open" ObjectPath="\Events\Default Work Unit\Objects\Play_Door_Open" GUID="{5E957226-A582-459F-9A83-918AA4719CF7}" DurationType="OneShot" DurationMin="2.762333" DurationMax="2.762333">
+					<IncludedMemoryFiles>
+						<File Id="91259736" Language="SFX">
+							<ShortName>DoorOpen.wav</ShortName>
+							<Path>SFX\DoorOpen_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2890489828" Name="Play_Exterior" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Exterior" GUID="{37F35CB8-E8F8-43AF-8365-74E7376B8E3C}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="136612189" Language="SFX">
+							<ShortName>Wind-1.wav</ShortName>
+							<Path>SFX\Wind-1_CDCC75B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="913957623" Name="Play_Falling" ObjectPath="\Events\Default Work Unit\PlayerSounds\Play_Falling" GUID="{E8FFB3CF-9E09-42BA-943D-5CD67E784286}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="476011641" Language="SFX">
+							<ShortName>FallingWhistle-1.wav</ShortName>
+							<Path>SFX\FallingWhistle-1_14E26672.wem</Path>
+						</File>
+						<File Id="789931617" Language="SFX">
+							<ShortName>FallingHeavyWind-1.wav</ShortName>
+							<Path>SFX\FallingHeavyWind-1_27381322.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1602358412" Name="Play_Footstep" ObjectPath="\Events\Default Work Unit\PlayerSounds\Play_Footstep" GUID="{1533D730-BB9C-484A-8269-E47AEF413932}" DurationType="OneShot" DurationMin="0.495687" DurationMax="1.10637">
+					<IncludedMemoryFiles>
+						<File Id="12383539" Language="SFX">
+							<ShortName>RoofStep3.wav</ShortName>
+							<Path>SFX\RoofStep3_10C4C929.wem</Path>
+						</File>
+						<File Id="18267709" Language="SFX">
+							<ShortName>RoofStep2.wav</ShortName>
+							<Path>SFX\RoofStep2_10C4C929.wem</Path>
+						</File>
+						<File Id="33847452" Language="SFX">
+							<ShortName>TileStep3-1.wav</ShortName>
+							<Path>SFX\TileStep3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="54123048" Language="SFX">
+							<ShortName>GrassStep3-1.wav</ShortName>
+							<Path>SFX\GrassStep3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="60814287" Language="SFX">
+							<ShortName>TileStep4-1.wav</ShortName>
+							<Path>SFX\TileStep4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="78184136" Language="SFX">
+							<ShortName>GrassStep5-1.wav</ShortName>
+							<Path>SFX\GrassStep5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="88218077" Language="SFX">
+							<ShortName>RockStep4-1.wav</ShortName>
+							<Path>SFX\RockStep4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="109873595" Language="SFX">
+							<ShortName>WoodStep5-1.wav</ShortName>
+							<Path>SFX\WoodStep5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="131368853" Language="SFX">
+							<ShortName>Jingle8-1.wav</ShortName>
+							<Path>SFX\Jingle8-1_10C4C929.wem</Path>
+						</File>
+						<File Id="136818652" Language="SFX">
+							<ShortName>Leather3-1.wav</ShortName>
+							<Path>SFX\Leather3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="147005123" Language="SFX">
+							<ShortName>WoodStep2-1.wav</ShortName>
+							<Path>SFX\WoodStep2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="170466456" Language="SFX">
+							<ShortName>WoodStep1-1.wav</ShortName>
+							<Path>SFX\WoodStep1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="177479202" Language="SFX">
+							<ShortName>WoodStep4-1.wav</ShortName>
+							<Path>SFX\WoodStep4-1_6F75D8D5.wem</Path>
+						</File>
+						<File Id="177700433" Language="SFX">
+							<ShortName>CloakL4-1.wav</ShortName>
+							<Path>SFX\CloakL4-1_A1C4EF6C.wem</Path>
+						</File>
+						<File Id="182910896" Language="SFX">
+							<ShortName>Leather2-1.wav</ShortName>
+							<Path>SFX\Leather2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="191323320" Language="SFX">
+							<ShortName>RoofStep1.wav</ShortName>
+							<Path>SFX\RoofStep1_10C4C929.wem</Path>
+						</File>
+						<File Id="222612392" Language="SFX">
+							<ShortName>WoodStep7-1.wav</ShortName>
+							<Path>SFX\WoodStep7-1_10C4C929.wem</Path>
+						</File>
+						<File Id="231640937" Language="SFX">
+							<ShortName>Leather8-1.wav</ShortName>
+							<Path>SFX\Leather8-1_10C4C929.wem</Path>
+						</File>
+						<File Id="237288612" Language="SFX">
+							<ShortName>CloakL3-1.wav</ShortName>
+							<Path>SFX\CloakL3-1_00F50BE9.wem</Path>
+						</File>
+						<File Id="243490228" Language="SFX">
+							<ShortName>GrassStep4-1.wav</ShortName>
+							<Path>SFX\GrassStep4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="245607280" Language="SFX">
+							<ShortName>Jingle4-1.wav</ShortName>
+							<Path>SFX\Jingle4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="293855609" Language="SFX">
+							<ShortName>Jingle5-1.wav</ShortName>
+							<Path>SFX\Jingle5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="295072375" Language="SFX">
+							<ShortName>RockStep3-1.wav</ShortName>
+							<Path>SFX\RockStep3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="316215694" Language="SFX">
+							<ShortName>WoodStep6-1.wav</ShortName>
+							<Path>SFX\WoodStep6-1_10C4C929.wem</Path>
+						</File>
+						<File Id="346660700" Language="SFX">
+							<ShortName>MetalStep4-1.wav</ShortName>
+							<Path>SFX\MetalStep4-1_10C4C929.wem</Path>
+						</File>
+						<File Id="359789919" Language="SFX">
+							<ShortName>GrassStep2-1.wav</ShortName>
+							<Path>SFX\GrassStep2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="367972009" Language="SFX">
+							<ShortName>Leather7-1.wav</ShortName>
+							<Path>SFX\Leather7-1_10C4C929.wem</Path>
+						</File>
+						<File Id="372427989" Language="SFX">
+							<ShortName>CloakL2-1.wav</ShortName>
+							<Path>SFX\CloakL2-1_48936A2A.wem</Path>
+						</File>
+						<File Id="381563616" Language="SFX">
+							<ShortName>Leather1-1.wav</ShortName>
+							<Path>SFX\Leather1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="385884363" Language="SFX">
+							<ShortName>Leather6-1.wav</ShortName>
+							<Path>SFX\Leather6-1_10C4C929.wem</Path>
+						</File>
+						<File Id="393514721" Language="SFX">
+							<ShortName>GrassStep6-1.wav</ShortName>
+							<Path>SFX\GrassStep6-1_10C4C929.wem</Path>
+						</File>
+						<File Id="404779585" Language="SFX">
+							<ShortName>CloakL1-1.wav</ShortName>
+							<Path>SFX\CloakL1-1_D05C545A.wem</Path>
+						</File>
+						<File Id="406013235" Language="SFX">
+							<ShortName>Leather5-1.wav</ShortName>
+							<Path>SFX\Leather5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="412011392" Language="SFX">
+							<ShortName>MetalStep2-1.wav</ShortName>
+							<Path>SFX\MetalStep2-1_1A6A859E.wem</Path>
+						</File>
+						<File Id="439735778" Language="SFX">
+							<ShortName>CloakH3-1.wav</ShortName>
+							<Path>SFX\CloakH3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="462137150" Language="SFX">
+							<ShortName>RockStep7-1.wav</ShortName>
+							<Path>SFX\RockStep7-1_10C4C929.wem</Path>
+						</File>
+						<File Id="472746676" Language="SFX">
+							<ShortName>TileStep2-1.wav</ShortName>
+							<Path>SFX\TileStep2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="474483314" Language="SFX">
+							<ShortName>WoodStep3-1.wav</ShortName>
+							<Path>SFX\WoodStep3-1_68E1E4A4.wem</Path>
+						</File>
+						<File Id="532314367" Language="SFX">
+							<ShortName>TileStep1-1.wav</ShortName>
+							<Path>SFX\TileStep1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="553012594" Language="SFX">
+							<ShortName>CloakH2-1.wav</ShortName>
+							<Path>SFX\CloakH2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="555303054" Language="SFX">
+							<ShortName>Jingle9-1.wav</ShortName>
+							<Path>SFX\Jingle9-1_10C4C929.wem</Path>
+						</File>
+						<File Id="563158298" Language="SFX">
+							<ShortName>CloakH-1.wav</ShortName>
+							<Path>SFX\CloakH-1_10C4C929.wem</Path>
+						</File>
+						<File Id="614950638" Language="SFX">
+							<ShortName>Jingle3-1.wav</ShortName>
+							<Path>SFX\Jingle3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="624915726" Language="SFX">
+							<ShortName>Jingle7-1.wav</ShortName>
+							<Path>SFX\Jingle7-1_10C4C929.wem</Path>
+						</File>
+						<File Id="638393009" Language="SFX">
+							<ShortName>CloakL5-1.wav</ShortName>
+							<Path>SFX\CloakL5-1_BBF5342C.wem</Path>
+						</File>
+						<File Id="664339220" Language="SFX">
+							<ShortName>RockStep6-1.wav</ShortName>
+							<Path>SFX\RockStep6-1_10C4C929.wem</Path>
+						</File>
+						<File Id="677517954" Language="SFX">
+							<ShortName>Jingle6-1.wav</ShortName>
+							<Path>SFX\Jingle6-1_10C4C929.wem</Path>
+						</File>
+						<File Id="696229919" Language="SFX">
+							<ShortName>Leather9-1.wav</ShortName>
+							<Path>SFX\Leather9-1_10C4C929.wem</Path>
+						</File>
+						<File Id="724599009" Language="SFX">
+							<ShortName>RoofStep4.wav</ShortName>
+							<Path>SFX\RoofStep4_10C4C929.wem</Path>
+						</File>
+						<File Id="732420711" Language="SFX">
+							<ShortName>RoofStep6.wav</ShortName>
+							<Path>SFX\RoofStep6_10C4C929.wem</Path>
+						</File>
+						<File Id="753280029" Language="SFX">
+							<ShortName>TileStep6-1.wav</ShortName>
+							<Path>SFX\TileStep6-1_10C4C929.wem</Path>
+						</File>
+						<File Id="808494705" Language="SFX">
+							<ShortName>MetalStep5-1.wav</ShortName>
+							<Path>SFX\MetalStep5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="827954759" Language="SFX">
+							<ShortName>GrassStep1-1.wav</ShortName>
+							<Path>SFX\GrassStep1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="834916926" Language="SFX">
+							<ShortName>MetalStep1-1.wav</ShortName>
+							<Path>SFX\MetalStep1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="846610342" Language="SFX">
+							<ShortName>Jingle2-1.wav</ShortName>
+							<Path>SFX\Jingle2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="874030018" Language="SFX">
+							<ShortName>RockStep2-1.wav</ShortName>
+							<Path>SFX\RockStep2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="936077090" Language="SFX">
+							<ShortName>MetalStep3-1.wav</ShortName>
+							<Path>SFX\MetalStep3-1_1B21EC6A.wem</Path>
+						</File>
+						<File Id="969875661" Language="SFX">
+							<ShortName>RockStep5-1.wav</ShortName>
+							<Path>SFX\RockStep5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="979207455" Language="SFX">
+							<ShortName>TileStep5-1.wav</ShortName>
+							<Path>SFX\TileStep5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="991661040" Language="SFX">
+							<ShortName>RockStep1-1.wav</ShortName>
+							<Path>SFX\RockStep1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="998780530" Language="SFX">
+							<ShortName>GrassStep7-1.wav</ShortName>
+							<Path>SFX\GrassStep7-1_10C4C929.wem</Path>
+						</File>
+						<File Id="1009839511" Language="SFX">
+							<ShortName>RoofStep7.wav</ShortName>
+							<Path>SFX\RoofStep7_10C4C929.wem</Path>
+						</File>
+						<File Id="1041210300" Language="SFX">
+							<ShortName>RoofStep5.wav</ShortName>
+							<Path>SFX\RoofStep5_10C4C929.wem</Path>
+						</File>
+						<File Id="1052280514" Language="SFX">
+							<ShortName>Leather4-1.wav</ShortName>
+							<Path>SFX\Leather4-1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{576B110D-FF33-41CD-9CA2-47EED040D2FA}">
+							<Media>
+								<File Id="12383539"/>
+								<File Id="18267709"/>
+								<File Id="191323320"/>
+								<File Id="724599009"/>
+								<File Id="732420711"/>
+								<File Id="1009839511"/>
+								<File Id="1041210300"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{BC811817-0678-45CA-B34A-37AB19866105}">
+							<Media>
+								<File Id="54123048"/>
+								<File Id="78184136"/>
+								<File Id="243490228"/>
+								<File Id="359789919"/>
+								<File Id="393514721"/>
+								<File Id="827954759"/>
+								<File Id="998780530"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{93C3C52D-5131-44A0-8E6A-013E0D001C45}">
+							<Media>
+								<File Id="109873595"/>
+								<File Id="147005123"/>
+								<File Id="170466456"/>
+								<File Id="177479202"/>
+								<File Id="222612392"/>
+								<File Id="316215694"/>
+								<File Id="474483314"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{8FFCBB8F-206B-4049-B524-D19D6DF4697F}">
+							<Media>
+								<File Id="346660700"/>
+								<File Id="412011392"/>
+								<File Id="808494705"/>
+								<File Id="834916926"/>
+								<File Id="936077090"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{977218AE-76C1-4AE8-9D0B-0CAE0E2BD5E3}">
+							<Media>
+								<File Id="88218077"/>
+								<File Id="295072375"/>
+								<File Id="462137150"/>
+								<File Id="664339220"/>
+								<File Id="874030018"/>
+								<File Id="969875661"/>
+								<File Id="991661040"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{7F2D5FF4-ACA2-4573-B024-B3212F1AB43C}">
+							<Media>
+								<File Id="33847452"/>
+								<File Id="60814287"/>
+								<File Id="472746676"/>
+								<File Id="532314367"/>
+								<File Id="753280029"/>
+								<File Id="979207455"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+					<AuxBusSends>
+						<AuxBus Id="1432176794" Name="Exterior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Exterior_Reverb" GUID="{420C488E-612A-4DC7-9ED7-E7CEB977D43E}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3536498653" Name="Play_Inside_Sounds" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Inside_Sounds" GUID="{09540BD8-D648-4FEA-85DD-35F37F814C44}" MaxAttenuation="950." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9996120" Language="SFX">
+							<ShortName>Creak5-1.wav</ShortName>
+							<Path>SFX\Creak5-1_10C4C929.wem</Path>
+						</File>
+						<File Id="108884551" Language="SFX">
+							<ShortName>Creak1-1.wav</ShortName>
+							<Path>SFX\Creak1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="413501802" Language="SFX">
+							<ShortName>Creak2-1.wav</ShortName>
+							<Path>SFX\Creak2-1_10C4C929.wem</Path>
+						</File>
+						<File Id="484116165" Language="SFX">
+							<ShortName>Creak3-1.wav</ShortName>
+							<Path>SFX\Creak3-1_10C4C929.wem</Path>
+						</File>
+						<File Id="935998398" Language="SFX">
+							<ShortName>Creak4-1.wav</ShortName>
+							<Path>SFX\Creak4-1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3687494018" Name="Play_Interior" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Interior" GUID="{37502D35-E393-4604-805B-D59F9C79E770}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="485588584" Language="SFX">
+							<ShortName>ShelteredWind-1.wav</ShortName>
+							<Path>SFX\ShelteredWind-1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1384689920" Name="Play_Island_Movement_Loop" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Island_Movement_Loop" GUID="{8CB2E86E-CD55-4C4F-B3F3-6C411398A105}" MaxAttenuation="10000." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="428662016" Language="SFX">
+							<ShortName>RockRumble-1.wav</ShortName>
+							<Path>SFX\RockRumble-1_0B63A439.wem</Path>
+						</File>
+						<File Id="493902237" Language="SFX">
+							<ShortName>RockDust1-1.wav</ShortName>
+							<Path>SFX\RockDust1-1_10C4C929.wem</Path>
+						</File>
+						<File Id="508784097" Language="SFX">
+							<ShortName>RockDust2-1.wav</ShortName>
+							<Path>SFX\RockDust2-1_F0C1FC1B.wem</Path>
+						</File>
+						<File Id="716102714" Language="SFX">
+							<ShortName>RockDust3-1.wav</ShortName>
+							<Path>SFX\RockDust3-1_A262C8C8.wem</Path>
+						</File>
+						<File Id="943873611" Language="SFX">
+							<ShortName>RockWind-1.wav</ShortName>
+							<Path>SFX\RockWind-1_E845AC63.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1259931422" Name="Play_Island_Movement_Start" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Island_Movement_Start" GUID="{7F615CAD-C91A-43C6-88A6-5296295C8CFC}" MaxAttenuation="10000." DurationType="OneShot" DurationMin="1.091271" DurationMax="1.297747">
+					<IncludedMemoryFiles>
+						<File Id="192560511" Language="SFX">
+							<ShortName>RockCrumbleStart-1.wav</ShortName>
+							<Path>SFX\RockCrumbleStart-1_7FC7CFA6.wem</Path>
+						</File>
+						<File Id="717222061" Language="SFX">
+							<ShortName>RockMoveStart-1.wav</ShortName>
+							<Path>SFX\RockMoveStart-1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2323405115" Name="Play_Landing" ObjectPath="\Events\Default Work Unit\PlayerSounds\Play_Landing" GUID="{4137A88D-C880-4FD0-90B8-8464AA6F67A3}" DurationType="OneShot" DurationMin="0.539774" DurationMax="0.539774">
+					<IncludedMemoryFiles>
+						<File Id="982834394" Language="SFX">
+							<ShortName>SuperJumpGemPickup-1.wav</ShortName>
+							<Path>SFX\SuperJumpGemPickup-1_96FF2D7F.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3196500978" Name="Play_Lever" ObjectPath="\Events\Default Work Unit\Objects\Play_Lever" GUID="{77117BF6-9418-4307-ABCA-377CE4F932C0}" DurationType="OneShot" DurationMin="0.875" DurationMax="0.875">
+					<IncludedMemoryFiles>
+						<File Id="498775986" Language="SFX">
+							<ShortName>DoorLever.wav</ShortName>
+							<Path>SFX\DoorLever_AC6347C9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2311786831" Name="Play_Magic_Platform" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Magic_Platform" GUID="{5235CB52-6975-40A3-A293-67CB24EDCDC9}" MaxAttenuation="2600." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="596923418" Language="SFX">
+							<ShortName>MagicPlatform-1.wav</ShortName>
+							<Path>SFX\MagicPlatform-1_F9E39641.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3770282852" Name="Play_Magic_Platform_Grind" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Magic_Platform_Grind" GUID="{7495FDB5-0F0F-4976-9B3F-1527F41CC2CA}" MaxAttenuation="2600." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="247487867" Language="SFX">
+							<ShortName>MetalLayer-1.wav</ShortName>
+							<Path>SFX\MetalLayer-1_4B3B5D78.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2831328282" Name="Play_Powered_Up" ObjectPath="\Events\Default Work Unit\PlayerSounds\Play_Powered_Up" GUID="{8E58982C-31C6-4AFD-B2FF-433A08222EC7}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="611973476" Language="SFX">
+							<ShortName>PoweredUpMagic3.wav</ShortName>
+							<Path>SFX\PoweredUpMagic3_124F56FB.wem</Path>
+						</File>
+						<File Id="784285140" Language="SFX">
+							<ShortName>PoweredUpMagic1.wav</ShortName>
+							<Path>SFX\PoweredUpMagic1_710DAD6E.wem</Path>
+						</File>
+						<File Id="804001930" Language="SFX">
+							<ShortName>PoweredUpHeartbeat.wav</ShortName>
+							<Path>SFX\PoweredUpHeartbeat_D79FB2B7.wem</Path>
+						</File>
+						<File Id="919819932" Language="SFX">
+							<ShortName>PoweredUpMagic2.wav</ShortName>
+							<Path>SFX\PoweredUpMagic2_40F4F3D4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="365318234" Name="Play_Respawn" ObjectPath="\Events\Default Work Unit\PlayerSounds\Play_Respawn" GUID="{537CA561-CC7F-4640-BF91-F0EF3DFDA26A}" DurationType="OneShot" DurationMin="2.125" DurationMax="2.125">
+					<IncludedMemoryFiles>
+						<File Id="519866465" Language="SFX">
+							<ShortName>Respawn.wav</ShortName>
+							<Path>SFX\Respawn_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3304501004" Name="Play_Special_Coin_Pickup" ObjectPath="\Events\Default Work Unit\Objects\Play_Special_Coin_Pickup" GUID="{E0CDCF1E-FFD4-4B1B-B345-AB089CAD2D4E}" DurationType="OneShot" DurationMin="1.214415" DurationMax="1.25">
+					<IncludedMemoryFiles>
+						<File Id="473270467" Language="SFX">
+							<ShortName>CoinSpecialPickup-1.wav</ShortName>
+							<Path>SFX\CoinSpecialPickup-1_3911EF6F.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="3615788468" Name="Play_Coin_Pickup" ObjectPath="\Events\Default Work Unit\Objects\Play_Coin_Pickup" GUID="{6F1F56F4-6D9A-4CF1-9EA3-258ABE62239E}"/>
+					</ActionPostEvent>
+				</Event>
+				<Event Id="2453267296" Name="Play_Victory" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Victory" GUID="{B112D6BC-8620-4EB1-969E-6DE90577DFFA}" DurationType="OneShot" DurationMin="3." DurationMax="3.">
+					<IncludedMemoryFiles>
+						<File Id="127750067" Language="SFX">
+							<ShortName>Victory.wav</ShortName>
+							<Path>SFX\Victory_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3877792414" Name="Play_Wind_Wisp" ObjectPath="\Events\Default Work Unit\WorldSounds\Play_Wind_Wisp" GUID="{860C3077-0B1C-4796-B251-31D8AC3C600C}" MaxAttenuation="2000." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="464197541" Language="SFX">
+							<ShortName>WindWispLoop-1.wav</ShortName>
+							<Path>SFX\WindWispLoop-1_7383DAA7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3396348501" Name="Stop_Falling" ObjectPath="\Events\Default Work Unit\PlayerSounds\Stop_Falling" GUID="{DF43F3E7-777D-49F7-A54F-4844DB824DB6}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="763319999" Name="Stop_Jump_Gem_Ambience" ObjectPath="\Events\Default Work Unit\Objects\Stop_Jump_Gem_Ambience" GUID="{D189F2B6-D103-4850-B5D6-E8000C9AF589}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3031291544" Name="Stop_Key_Ambience" ObjectPath="\Events\Default Work Unit\Objects\Stop_Key_Ambience" GUID="{0D975F04-30E8-474D-8F90-A899AC93BAB4}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2194294410" Name="Stop_Magic_Platform_Grind" ObjectPath="\Events\Default Work Unit\WorldSounds\Stop_Magic_Platform_Grind" GUID="{4486A262-7A91-4F34-A7E6-8A791ED1A77D}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1083284480" Name="Stop_Powered_Up" ObjectPath="\Events\Default Work Unit\PlayerSounds\Stop_Powered_Up" GUID="{AB9C1EDF-719E-412D-8CCC-070128C0E402}" DurationType="OneShot" DurationMin="1.388479" DurationMax="1.388479">
+					<IncludedMemoryFiles>
+						<File Id="563926411" Language="SFX">
+							<ShortName>PoweredUpEnd.wav</ShortName>
+							<Path>SFX\PoweredUpEnd_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="462203265" Name="Super_Jump" ObjectPath="\Events\Default Work Unit\PlayerSounds\Super_Jump" GUID="{B9A553F5-9807-4F40-8A7B-6A4EBD8254A3}" DurationType="OneShot" DurationMin="0.8" DurationMax="0.8">
+					<IncludedMemoryFiles>
+						<File Id="256240134" Language="SFX">
+							<ShortName>SuperJump-1.wav</ShortName>
+							<Path>SFX\SuperJump-1_C7E08968.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1929098420" Name="Super_Jump_Gem_Ambience" ObjectPath="\Events\Default Work Unit\Objects\Super_Jump_Gem_Ambience" GUID="{E9C0A7FA-EBE6-453C-A799-AF64E9287516}" MaxAttenuation="2000." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="573622197" Language="SFX">
+							<ShortName>JumpGemAmbient-1.wav</ShortName>
+							<Path>SFX\JumpGemAmbient-1_92DB0BA2.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2157629475" Name="SuperJumpGemPickup" ObjectPath="\Events\Default Work Unit\Objects\SuperJumpGemPickup" GUID="{B92C3427-8A9C-4B03-A486-337998E3E1CC}" DurationType="OneShot" DurationMin="3.395938" DurationMax="3.650204">
+					<IncludedMemoryFiles>
+						<File Id="175726076" Language="SFX">
+							<ShortName>SuperJumpGemPickup-1.wav</ShortName>
+							<Path>SFX\SuperJumpGemPickup-1_10C4C929.wem</Path>
+						</File>
+						<File Id="592204924" Language="SFX">
+							<ShortName>GemMagic1-1.wav</ShortName>
+							<Path>SFX\GemMagic1-1_12CB8133.wem</Path>
+						</File>
+						<File Id="777671631" Language="SFX">
+							<ShortName>GemMagic2-1.wav</ShortName>
+							<Path>SFX\GemMagic2-1_926DC162.wem</Path>
+						</File>
+						<File Id="835423382" Language="SFX">
+							<ShortName>GemMagic3-1.wav</ShortName>
+							<Path>SFX\GemMagic3-1_83AD242B.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedAuxBusses>
+				<AuxBus Id="1237654756" Name="Interior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Reverb" GUID="{4506CD56-FDAB-4C07-B857-793E441FCF91}"/>
+				<AuxBus Id="1432176794" Name="Exterior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Exterior_Reverb" GUID="{420C488E-612A-4DC7-9ED7-E7CEB977D43E}"/>
+				<AuxBus Id="2224154988" Name="Interior_Small_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Small_Reverb" GUID="{C367B954-D858-4EE8-BF04-B3D78F2BAB0A}"/>
+				<AuxBus Id="2652468637" Name="Interior_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Large" GUID="{9C962A20-0F04-41E5-A994-EA4ECAA67272}"/>
+			</IncludedAuxBusses>
+			<GameParameters>
+				<GameParameter Id="188993186" Name="Magic_Platform_RTPC" ObjectPath="\Game Parameters\Default Work Unit\Magic_Platform_RTPC" GUID="{96AFDDD5-A2CD-439D-BF7A-D8B69D401F37}"/>
+				<GameParameter Id="281531756" Name="Island_RTPC" ObjectPath="\Game Parameters\Default Work Unit\Island_RTPC" GUID="{6667746B-4888-4377-8CB9-43EE86A0578D}"/>
+				<GameParameter Id="637214656" Name="Metal_Ball_RTPC" ObjectPath="\Game Parameters\Default Work Unit\Metal_Ball_RTPC" GUID="{9C5402F9-90D4-4531-BB2C-9522F4C2A218}"/>
+				<GameParameter Id="1062779386" Name="Player_Speed" ObjectPath="\Game Parameters\Default Work Unit\Player_Speed" GUID="{3579D113-CFD1-49B4-BB93-B69B75F5B21A}"/>
+				<GameParameter Id="1161266477" Name="Ambience_RTPC" ObjectPath="\Game Parameters\Default Work Unit\Ambience_RTPC" GUID="{D373DE0F-12C4-459B-8928-508628D0BF9E}"/>
+				<GameParameter Id="1564184899" Name="SFX_Volume" ObjectPath="\Game Parameters\Default Work Unit\SFX_Volume" GUID="{E255F143-FDD6-4C6F-99DB-46BBDD35CB50}"/>
+				<GameParameter Id="3983539510" Name="Falling_Speed" ObjectPath="\Game Parameters\Default Work Unit\Falling_Speed" GUID="{83B7C6DD-76F7-4694-8629-7799A6FE0C80}"/>
+				<GameParameter Id="4179668880" Name="Master_Volume" ObjectPath="\Game Parameters\Default Work Unit\Master_Volume" GUID="{416668FD-1668-40C4-94E9-31B69812AEE1}"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="442453602" Name="Footstep_Switch" ObjectPath="\Switches\Default Work Unit\Footstep_Switch" GUID="{8EEA9F03-1336-409A-8E64-B2EC4C95C8E3}">
+					<Switches>
+						<Switch Id="3927842460" Name="GrassPM" ObjectPath="\Switches\Default Work Unit\Footstep_Switch\GrassPM" GUID="{BC811817-0678-45CA-B34A-37AB19866105}"/>
+						<Switch Id="898444711" Name="WoodPM" ObjectPath="\Switches\Default Work Unit\Footstep_Switch\WoodPM" GUID="{93C3C52D-5131-44A0-8E6A-013E0D001C45}"/>
+						<Switch Id="3214217836" Name="TilePM" ObjectPath="\Switches\Default Work Unit\Footstep_Switch\TilePM" GUID="{7F2D5FF4-ACA2-4573-B024-B3212F1AB43C}"/>
+						<Switch Id="2895280211" Name="MetalPM" ObjectPath="\Switches\Default Work Unit\Footstep_Switch\MetalPM" GUID="{8FFCBB8F-206B-4049-B524-D19D6DF4697F}"/>
+						<Switch Id="321589239" Name="RockPM" ObjectPath="\Switches\Default Work Unit\Footstep_Switch\RockPM" GUID="{977218AE-76C1-4AE8-9D0B-0CAE0E2BD5E3}"/>
+						<Switch Id="2678164575" Name="ClayPM" ObjectPath="\Switches\Default Work Unit\Footstep_Switch\ClayPM" GUID="{576B110D-FF33-41CD-9CA2-47EED040D2FA}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

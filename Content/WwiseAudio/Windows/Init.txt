@@ -1,0 +1,34 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2491380146	Shelter_State			\Default Work Unit\Shelter_State	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	Shelter_State			
+	748895195	None	Shelter_State			
+	3553349781	Inside	Shelter_State			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1006694123	Music_Volume			\Default Work Unit\Music_Volume	
+	1564184899	SFX_Volume			\Default Work Unit\SFX_Volume	
+	4179668880	Master_Volume			\Default Work Unit\Master_Volume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	2609808943	World			\Default Work Unit\Master Audio Bus\World	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	LIST OF REQUIREMENTS  movements: - [ ] life layer - bag,clothes (3-5 Variations)  footsteps: - [ ] walk - [ ] run - [ ] sprint (run rtpc) - [ ] jump - [ ] super high jump  floor materials: (5 run variations for each) - [ ] grass - [ ] wood - [ ] tile - [ ] metal - [ ] rocks  Ambience: - [ ] music - [ ] INT - room tone with reverbs with size - [ ] EXT - room tone with reverbs with size  - [ ] moving island (event created in wwise. timeline done in Unreal) - [ ] coin pick up (3-5 variations) - [ ] key pick up (3-5 variations) - [ ] gem pick up (3-5 variations) - [ ] jump gem - [ ] check points - [ ] player movements - [ ] falling/ dying - [ ] Respawn - [ ] jumping - [ ] power up state (3 variations) - [ ] ball - collision sound - [ ] door opening - [ ] door switch - [ ] finish game - [ ] stop actor  moving: - [ ] 3 islands - [ ] platforms (event created in wwise. timeline done in Unreal)
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1237654756	Interior_Reverb			\Default Work Unit\Master Audio Bus\World\Interior_Reverb	
+	1432176794	Exterior_Reverb			\Default Work Unit\Master Audio Bus\World\Exterior_Reverb	
+	2224154988	Interior_Small_Reverb			\Default Work Unit\Master Audio Bus\World\Interior_Small_Reverb	
+	2652468637	Interior_Large			\Default Work Unit\Master Audio Bus\World\Interior_Large	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	484890516	Church_Small_Wood	Wwise RoomVerb			
+	1520064353	Hall_Medium_Bright	Wwise RoomVerb			
+	2945072214	My_Closet	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

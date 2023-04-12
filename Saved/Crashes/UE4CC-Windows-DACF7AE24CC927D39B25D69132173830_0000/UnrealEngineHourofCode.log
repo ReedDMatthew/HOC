@@ -1,0 +1,1789 @@
+﻿Log file open, 04/09/23 18:37:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UnrealEngineHourofCode
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181789
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Wwise
+LogXGEController: Cleaning working directory: C:/Users/Matt/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3070 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: J:/UE_4.27/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.10-01.37.14:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.10-01.37.14:358][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:358][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.10-01.37.14:376][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.10-01.37.14:376][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.10-01.37.14:376][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.10-01.37.14:376][  0]LogHAL: Display: Platform has ~ 32 GB [34281701376 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.10-01.37.14:376][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Scalability.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.10-01.37.14:377][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.10-01.37.14:377][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.10-01.37.14:378][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.10-01.37.14:378][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.10-01.37.14:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Engine.ini]
+[2023.04.10-01.37.14:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Config/Windows/Editor.ini]
+[2023.04.10-01.37.14:378][  0]LogInit: Computer: GLASSYVALHALLA
+[2023.04.10-01.37.14:378][  0]LogInit: User: Matt
+[2023.04.10-01.37.14:378][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.04.10-01.37.14:378][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.10-01.37.14:378][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.04.10-01.37.14:378][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.10-01.37.14:378][  0]LogMemory: Process Physical Memory: 140.62 MB used, 140.62 MB peak
+[2023.04.10-01.37.14:378][  0]LogMemory: Process Virtual Memory: 120.22 MB used, 120.22 MB peak
+[2023.04.10-01.37.14:378][  0]LogMemory: Physical Memory: 15177.52 MB used,  17516.06 MB free, 32693.58 MB total
+[2023.04.10-01.37.14:378][  0]LogMemory: Virtual Memory: 134209632.00 MB used,  8097.50 MB free, 134217728.00 MB total
+[2023.04.10-01.37.14:381][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.10-01.37.14:411][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.10-01.37.14:412][  0]LogInit: Using OS detected language (en-US).
+[2023.04.10-01.37.14:412][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.10-01.37.14:414][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.04.10-01.37.14:590][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.10-01.37.14:599][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.10-01.37.14:614][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.10-01.37.14:614][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.10-01.37.14:721][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.10-01.37.14:721][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.10-01.37.14:721][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.10-01.37.14:721][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.10-01.37.14:820][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Ti' (Feature Level 11_0)
+[2023.04.10-01.37.14:820][  0]LogD3D11RHI:       8031/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.10-01.37.14:821][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.10-01.37.14:821][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.10-01.37.14:821][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.04.10-01.37.14:830][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.10-01.37.14:830][  0]LogD3D11RHI:     GPU DeviceId: 0x2482 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.10-01.37.14:830][  0]LogWindows: EnumDisplayDevices:
+[2023.04.10-01.37.14:830][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070 Ti' (P:1 D:1)
+[2023.04.10-01.37.14:831][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:1)
+[2023.04.10-01.37.14:831][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2023.04.10-01.37.14:831][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2023.04.10-01.37.14:831][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.10-01.37.14:831][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti
+[2023.04.10-01.37.14:831][  0]LogD3D11RHI:   Driver Version: 528.02 (internal:31.0.15.2802, unified:528.02)
+[2023.04.10-01.37.14:831][  0]LogD3D11RHI:      Driver Date: 12-22-2022
+[2023.04.10-01.37.14:831][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2023.04.10-01.37.14:894][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.10-01.37.14:894][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.10-01.37.14:894][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.10-01.37.14:916][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.04.10-01.37.14:917][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.04.10-01.37.15:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.10-01.37.15:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.10-01.37.15:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.10-01.37.15:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.10-01.37.15:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.10-01.37.15:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.10-01.37.15:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.10-01.37.15:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.10-01.37.15:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.10-01.37.15:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.10-01.37.15:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.10-01.37.15:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.10-01.37.15:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.10-01.37.15:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.10-01.37.15:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.10-01.37.15:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.10-01.37.15:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.10-01.37.15:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.10-01.37.15:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.10-01.37.15:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.10-01.37.15:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.10-01.37.15:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.10-01.37.15:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.10-01.37.15:297][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.10-01.37.15:302][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.10-01.37.15:343][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.10-01.37.15:343][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Intermediate/Shaders/WorkingDirectory/2468/).
+[2023.04.10-01.37.15:343][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/2850F8514C4A68DDF40A8980DB32F434/'.
+[2023.04.10-01.37.15:343][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.10-01.37.15:343][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.10-01.37.15:892][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.10-01.37.15:933][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Matt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.04.10-01.37.15:933][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.04.10-01.37.15:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.10-01.37.15:933][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.10-01.37.15:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.10-01.37.15:933][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.10-01.37.15:943][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.10-01.37.15:943][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.10-01.37.15:943][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.10-01.37.15:952][  0]LogDerivedDataCache: Speed tests for C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.04.10-01.37.15:952][  0]LogDerivedDataCache: Display: Performance to C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1177.12MBs, RandomWriteSpeed=131.53MBs. Assigned SpeedClass 'Local'
+[2023.04.10-01.37.15:953][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.10-01.37.15:953][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.10-01.37.15:953][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.10-01.37.15:989][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.10-01.37.15:990][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.10-01.37.16:008][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2023.04.10-01.37.16:194][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.10-01.37.16:194][  0]LogInit: Active device profile: [000001D58F291B00][000001D58C7259C0 49] Windows
+[2023.04.10-01.37.16:194][  0]LogInit: Profiles: [000001D58F291B00][000001D58C7259C0 49] Windows, [000001D58F24E900][000001D58C72DB40 49] WindowsNoEditor, [000001D58F291D00][000001D58D1F9CC0 49] WindowsServer, [000001D58F24CC00][000001D58D1FC180 49] WindowsClient, [000001D58F290E00][000001D58D200300 49] IOS, [000001D58F24FA00][000001D58D204480 49] iPadAir, [000001D58F293000][000001D58D208600 49] iPadAir2, [000001D58F1F6B00][000001D58D2108C0 49] IPadPro, [000001D58F1F6C00][000001D58D20C900 49] iPadAir3, [000001D58F291200][000001D58D214A80 49] iPadAir4, [000001D58F1F6800][000001D58D218C00 49] iPadMini2, [000001D58F293100][000001D58D21CD80 49] iPadMini3, [000001D58F1F5800][000001D58D220F00 49] iPadMini4, [000001D58F292A00][000001D58D225080 49] iPadMini5, [000001D58F236400][000001D58D22D340 49] iPhone6, [000001D58F236500][000001D58D229380 49] iPodTouch6, [000001D58F24C200][000001D58D247640 49] iPhone7, [000001D58F24C500][000001D58D231680 49] iPodTouch7, [000001D58F237C00][000001D58C7297C0 49] iPhone5S, [000001D58F24E300][000001D58D25B900 49] iPhone6Plus, [000001D58F235600][000001D58D263A40 49] iPhone6S, [000001D58F24DE00][000001D58D26BBC0 49] iPhone6SPlus, [000001D58F234700][000001D58D273D40 49] iPhone7Plus, [000001D58F24D100][000001D58D292200 49] iPhoneSE, [000001D58F237400][000001D58D296380 49] iPhone8, [000001D58F24E200][000001D58D2BA500 49] iPhone8Plus, [000001D58F234200][000001D58D2D2680 49] iPhoneX, [000001D58F24EF00][000001D58D2D6800 49] iPhoneXS, [000001D58F236F00][000001D58D2FA980 49] iPhoneXSMax, [000001D58F24EA00][000001D58D2FEB00 49] iPhoneXR, [000001D58F234E00][000001D58D302C80 49] iPhone11, [000001D58F24C400][000001D58D306E00 49] iPhone11Pro, [000001D58F236600][000001D58D30AF80 49] iPhone11ProMax, [000001D58F24FD00][000001D58D313100 49] iPhoneSE2, [000001D58F236D00][000001D58D317280 49] iPhone12Mini, [000001D58F24C100][000001D58D31B400 49] iPhone12, [000001D58F24CA00][000001D58D31F580 49] iPhone12Pro, [000001D58F293500][000001D58D323700 49] iPhone12ProMax, [000001D58F292400][000001D58D267840 49] iPadPro105, [000001D58F235200][000001D58D327980 49] iPadPro129, [000001D58F292000][000001D58D32BAC0 49] iPadPro97, [000001D58F236000][000001D58D333C40 49] iPadPro2_129, [000001D58F290D00][000001D58D336100 49] iPad5, [000001D58F237500][000001D58D33A280 49] iPad6, [000001D58F293F00][000001D58D33E400 49] iPad7, [000001D58F237800][000001D58D342580 49] iPad8, [000001D58F24F200][000001D58D346700 49] iPadPro11, [000001D58F236C00][000001D58D34A880 49] iPadPro2_11, [000001D58F24CF00][000001D58D34EA00 49] iPadPro3_129, [000001D58F235B00][000001D58D352B80 49] iPadPro4_129, [000001D58F24DC00][000001D58D356D00 49] AppleTV, [000001D58F234600][000001D58D35AE80 49] AppleTV4K, [000001D58F24E700][000001D58CB51000 49] TVOS, [000001D58F234900][000001D58CB55180 49] Mac, [000001D58F24EB00][000001D58CB59300 49] MacClient, [000001D58F237200][000001D58CB5D480 49] MacNoEditor, [000001D58F24D600][000001D58CB61600 49] MacServer, [000001D58F235000][000001D58CB65780 49] Linux, [000001D58F24FE00][000001D58D32F8C0 49] LinuxAArch64, [000001D58F234F00][000001D58CB69A00 49] LinuxNoEditor, [000001D58F24CB00][000001D58CB6DB40 49] LinuxAArch64NoEditor, [000001D58F235D00][000001D58CB75CC0 49] LinuxClient, [000001D58F24D400][000001D58CB78180 49] LinuxAArch64Client, [000001D58F237D00][000001D58CB7C300 49] LinuxServer, [000001D58F24D500][000001D58CB80480 49] LinuxAArch64Server, [000001D58F234A00][000001D58CB84600 49] Android, [000001D58F24EE00][000001D58CB88780 49] Android_Low, [000001D58F234C00][000001D58CB8C900 49] Android_Mid, [000001D58F24F500][000001D58CB90A80 49] Android_High, [000001D58F237100][000001D58CB94C00 49] Android_Default, [000001D58F24F100][000001D58CB98D80 49] Android_Adreno4xx, [000001D58F234800][000001D58CB9CF00 49] Android_Adreno5xx_Low, [000001D58F24CE00][000001D58CBA1080 49] Android_Adreno5xx, [000001D58F234D00][000001D58CBA5200 49] Android_Adreno6xx, [000001D58F24E400][000001D58CBA9380 49] Android_Adreno6xx_Vulkan, [000001D58F237A00][000001D58CBAD500 49] Android_Mali_T6xx, [000001D58F24D800][000001D58CBB1680 49] Android_Mali_T7xx, [000001D58F235C00][000001D58CBB5800 49] Android_Mali_T8xx, [000001D58F24FC00][000001D58CB71940 49] Android_Mali_G71, [000001D58F236300][000001D58CBB9A80 49] Android_Mali_G72, [000001D58F24F600][000001D58CBBDBC0 49] Android_Mali_G72_Vulkan, [000001D58F235F00][000001D58CBC1D00 49] Android_Mali_G76, [000001D58F24C700][000001D58CBC81C0 49] Android_Mali_G76_Vulkan, [000001D58F237700][000001D58CBCC340 49] Android_Mali_G77, [000001D58F24C300][000001D58CBD04C0 49] Android_Mali_G77_Vulkan, [000001D58F292C00][000001D58CBD4640 49] Android_Vulkan_SM5, [000001D58F1F4500][000001D58CBD87C0 49] Android_PowerVR_G6xxx, [000001D58F292D00][000001D58CBDC940 49] Android_PowerVR_GT7xxx, [000001D58F1F5B00][000001D58CBE0AC0 49] Android_PowerVR_GE8xxx, [000001D58F291800][000001D58CBE4C40 49] Android_PowerVR_GM9xxx, [000001D58F1F7200][000001D58CBE8DC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001D58F290400][000001D58CBECF40 49] Android_TegraK1, [000001D58F1F4600][000001D58CBF10C0 49] Android_Unknown_Vulkan, [000001D58F292300][000001D58CBF5240 49] Lumin, [000001D58F1F5000][000001D58CBF93C0 49] Lumin_Desktop, [000001D58F293E00][000001D58CBFD540 49] HoloLens, 
+[2023.04.10-01.37.16:273][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.10-01.37.16:273][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.10-01.37.16:273][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.10-01.37.16:273][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.10-01.37.16:273][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.10-01.37.16:286][  0]LogNetVersion: UnrealEngineHourofCode 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3556485771)
+[2023.04.10-01.37.16:610][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.10-01.37.16:683][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.072484 seconds
+[2023.04.10-01.37.16:688][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2023.04.10-01.37.16:688][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2023.04.10-01.37.16:688][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.10-01.37.16:947][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.10-01.37.16:950][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.10-01.37.16:996][  0]SourceControl: Source control is disabled
+[2023.04.10-01.37.17:168][  0]LogAkAudio: Wwise(R) SDK Version 2019.2.15 Build 7667. Copyright (c) 2006-2019 Audiokinetic Inc.
+[2023.04.10-01.37.17:168][  0]LogAkAudio: Wwise plug-in DLL path: J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/
+[2023.04.10-01.37.17:168][  0]LogAkAudio: Wwise remote connection application name: UnrealEngineHourofCode (Editor)
+[2023.04.10-01.37.17:168][  0]LogAkAudio: Wwise successfully initialized.
+[2023.04.10-01.37.17:172][  0]LogAkAudio: Initialization complete.
+[2023.04.10-01.37.17:172][  0]LogInit: Audiokinetic Audio Device initialized.
+[2023.04.10-01.37.17:361][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.10-01.37.17:373][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.10-01.37.17:373][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.10-01.37.17:416][  0]SourceControl: Source control is disabled
+[2023.04.10-01.37.17:418][  0]SourceControl: Source control is disabled
+[2023.04.10-01.37.17:420][  0]SourceControl: Source control is disabled
+[2023.04.10-01.37.17:425][  0]SourceControl: Source control is disabled
+[2023.04.10-01.37.17:427][  0]LogUProjectInfo: Found projects:
+[2023.04.10-01.37.17:442][  0]LogCollectionManager: Loaded 0 collections in 0.001257 seconds
+[2023.04.10-01.37.17:460][  0]LogFileCache: Scanning file cache for directory 'J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/Collections/' took 0.00s
+[2023.04.10-01.37.17:460][  0]LogFileCache: Scanning file cache for directory 'J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Content/Developers/Matt/Collections/' took 0.00s
+[2023.04.10-01.37.17:460][  0]LogFileCache: Scanning file cache for directory 'J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Content/Collections/' took 0.00s
+[2023.04.10-01.37.17:460][  0]LogOcInput: OculusInput pre-init called
+[2023.04.10-01.37.17:467][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.04.10-01.37.17:467][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.04.10-01.37.17:513][  0]LogEngine: Initializing Engine...
+[2023.04.10-01.37.17:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.10-01.37.17:514][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.10-01.37.17:515][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.10-01.37.17:599][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.10-01.37.17:605][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.10-01.37.17:615][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.10-01.37.17:618][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.10-01.37.17:618][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-01.37.17:618][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-01.37.17:618][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.10-01.37.17:618][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.10-01.37.17:625][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.10-01.37.17:625][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.10-01.37.17:646][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.04.10-01.37.17:648][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-01.37.17:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-01.37.17:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-01.37.17:651][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.10-01.37.17:651][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.10-01.37.17:651][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.10-01.37.17:651][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.10-01.37.17:651][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.10-01.37.17:651][  0]LogInit: FAudioDevice initialized.
+[2023.04.10-01.37.17:651][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.10-01.37.17:651][  0]LogNetVersion: Set ProjectVersion to 4.1. Version Checksum will be recalculated on next use.
+[2023.04.10-01.37.17:721][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Matt/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.04.10-01.37.17:722][  0]LogInit: Texture streaming: Enabled
+[2023.04.10-01.37.17:731][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.04.10-01.37.17:733][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.10-01.37.17:733][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.10-01.37.17:735][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.10-01.37.17:779][  0]LogInit: Transaction tracking system initialized
+[2023.04.10-01.37.17:794][  0]BlueprintLog: New page: Editor Load
+[2023.04.10-01.37.17:839][  0]LocalizationService: Localization service is disabled
+[2023.04.10-01.37.17:855][  0]TimingProfiler: Initialize
+[2023.04.10-01.37.17:855][  0]TimingProfiler: OnSessionChanged
+[2023.04.10-01.37.17:855][  0]LoadingProfiler: Initialize
+[2023.04.10-01.37.17:855][  0]LoadingProfiler: OnSessionChanged
+[2023.04.10-01.37.17:855][  0]NetworkingProfiler: Initialize
+[2023.04.10-01.37.17:855][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.10-01.37.17:855][  0]MemoryProfiler: Initialize
+[2023.04.10-01.37.17:855][  0]MemoryProfiler: OnSessionChanged
+[2023.04.10-01.37.17:858][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2023.04.10-01.37.17:858][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2023.04.10-01.37.17:988][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.10-01.37.17:988][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.10-01.37.18:090][  0]LogFileCache: Scanning file cache for directory 'J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Content/' took 0.01s
+[2023.04.10-01.37.18:210][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.10-01.37.18:212][  0]SourceControl: Source control is disabled
+[2023.04.10-01.37.18:212][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.521
+[2023.04.10-01.37.18:212][  0]Cmd: MAP LOAD FILE="../../../../../Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Content/Hour_of_Code/Maps/Level_HOC_world.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.10-01.37.18:213][  0]LightingResults: New page: Lighting Build
+[2023.04.10-01.37.18:213][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-01.37.18:213][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-01.37.18:213][  0]MapCheck: New page: Map Check
+[2023.04.10-01.37.18:213][  0]LightingResults: New page: Lighting Build
+[2023.04.10-01.37.18:225][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.10-01.37.19:048][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_HOC_world'.
+[2023.04.10-01.37.19:049][  0]LogAIModule: Creating AISystem for world Level_HOC_world
+[2023.04.10-01.37.19:864][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TeachersMarketplace/Maps/TeacherMarketplace_LIGHTING_01) is flushing async loading
+[2023.04.10-01.37.19:865][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.04.10-01.37.20:421][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/Level_01_end) is flushing async loading
+[2023.04.10-01.37.20:425][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/Level_02_end) is flushing async loading
+[2023.04.10-01.37.20:442][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/Level_03_end) is flushing async loading
+[2023.04.10-01.37.20:472][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/Level_04_end) is flushing async loading
+[2023.04.10-01.37.20:497][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Hour_of_Code/Maps/Level_05_end) is flushing async loading
+[2023.04.10-01.37.20:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.10-01.37.20:557][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.10-01.37.20:558][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.10-01.37.20:559][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.456ms to complete.
+[2023.04.10-01.37.20:559][  0]LogFileHelpers: Loading map 'Level_HOC_world' took 2.346
+[2023.04.10-01.37.20:560][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.869
+[2023.04.10-01.37.20:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-01.37.20:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-01.37.20:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-01.37.20:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-01.37.20:721][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3750 classes and 894 folders.
+[2023.04.10-01.37.20:723][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.10-01.37.20:724][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.10-01.37.20:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.10-01.37.20:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2023.04.10-01.37.20:725][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.10-01.37.20:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.10-01.37.20:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2023.04.10-01.37.20:725][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.10-01.37.20:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.10-01.37.20:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.10-01.37.20:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.10-01.37.20:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.10-01.37.20:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.10-01.37.20:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.10-01.37.20:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.10-01.37.20:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2023.04.10-01.37.20:727][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.10-01.37.20:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.10-01.37.20:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.10-01.37.20:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.10-01.37.20:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.10-01.37.20:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.10-01.37.20:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.10-01.37.20:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.10-01.37.20:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.10-01.37.20:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.10-01.37.20:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.10-01.37.20:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.10-01.37.20:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.10-01.37.20:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.04.10-01.37.20:732][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.10-01.37.20:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.10-01.37.20:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.04.10-01.37.20:732][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.10-01.37.20:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.10-01.37.20:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.04.10-01.37.20:733][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.10-01.37.20:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.10-01.37.20:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.04.10-01.37.20:733][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.10-01.37.20:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.10-01.37.20:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.10-01.37.20:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.10-01.37.20:758][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.10-01.37.20:767][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.04.10-01.37.21:063][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.10-01.37.21:125][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.10-01.37.21:126][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.10-01.37.21:130][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.10-01.37.21:209][  0]LogRenderer: Reallocating scene render targets to support 1080x584 Format 10 NumSamples 1 (Frame:1).
+[2023.04.10-01.37.21:256][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.10-01.37.21:400][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.10-01.37.21:400][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.04.10-01.37.21:400][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.04.10-01.37.21:400][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.04.10-01.37.21:400][  0]LogLoad: (Engine Initialization) Total time: 7.71 seconds
+[2023.04.10-01.37.21:400][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.10-01.37.21:400][  0]LogInit: First time updating LLM stats...
+[2023.04.10-01.37.21:437][  0]LogAssetRegistry: Asset discovery search completed in 5.4293 seconds
+[2023.04.10-01.37.21:439][  0]LogWwiseProjectParser: Could not parse the Cache directory from the Wwise project file. Using default value : .cache
+[2023.04.10-01.37.21:446][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.10-01.37.21:506][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.04.10-01.37.21:541][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.10-01.37.21:565][  1]LogFileCache: Retrieving MD5 hashes for directory 'J:/Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Content/' took 0.15s
+[2023.04.10-01.37.45:111][699]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/EpicCharacter.EpicCharacter
+[2023.04.10-01.37.45:260][699]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.04.10-01.37.45:942][699]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/SM_PuzzleSphere_A2_Blueprint.SM_PuzzleSphere_A2_Blueprint
+[2023.04.10-01.37.46:246][699]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.10-01.37.46:296][700]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.10-01.38.08:030][601]LogSlate: Window 'SM_PuzzleSphere_A2_Blueprint' being destroyed
+[2023.04.10-01.38.46:007][835]BlueprintLog: New page: Compile SM_PuzzleSphere_A2_Blueprint
+[2023.04.10-01.38.46:042][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.10-01.38.46:089][835]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.10-01.38.46:700][878]LogSavePackage: Moving '../../../../../Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Saved/SM_PuzzleSphere_A2_Blueprint50F87C624C00FA5708EFE9B28F2EDF23.tmp' to '../../../../../Game Design Projects/Contracts/UnrealHourOfCode/UnrealEngineHourofCode/Content/Hour_of_Code/Blueprints/SM_PuzzleSphere_A2_Blueprint.uasset'
+[2023.04.10-01.38.46:716][878]AssetCheck: New page: Asset Save: SM_PuzzleSphere_A2_Blueprint
+[2023.04.10-01.38.46:716][878]LogContentValidation: Display: Validating Blueprint /Game/Hour_of_Code/Blueprints/SM_PuzzleSphere_A2_Blueprint.SM_PuzzleSphere_A2_Blueprint
+[2023.04.10-01.38.48:700][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.10-01.38.48:708][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-01.38.48:708][ 68]PIE: New page: PIE session: Level_HOC_world (Apr 9, 2023, 11:38:48 AM)
+[2023.04.10-01.38.48:709][ 68]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.10-01.38.48:710][ 68]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.10-01.38.48:710][ 68]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2023.04.10-01.38.48:753][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043351s)
+[2023.04.10-01.38.48:754][ 68]LogAIModule: Creating AISystem for world Level_HOC_world
+[2023.04.10-01.38.48:754][ 68]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2023.04.10-01.38.48:754][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.044628s)
+[2023.04.10-01.38.48:774][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.10-01.38.48:775][ 68]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-01.38.48:775][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-01.38.48:775][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.10-01.38.48:775][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.10-01.38.48:777][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.10-01.38.48:778][ 68]LogAudioMixer: Display: 1: FrontRight
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.10-01.38.48:786][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.10-01.38.48:797][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.10-01.38.48:797][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.10-01.38.48:797][ 68]LogInit: FAudioDevice initialized.
+[2023.04.10-01.38.48:797][ 68]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_HOC_world'.
+[2023.04.10-01.38.48:803][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.10-01.38.48:929][ 68]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2023.04.09-18.38.48
+[2023.04.10-01.38.49:709][ 68]LogLinker: Warning: Failed to load '/Game/Hour_of_Code/Sequences/S_movingPlatforms': Can't find file.
+[2023.04.10-01.38.49:710][ 68]LogLinker: Warning: Failed to load '/Game/Hour_of_Code/Sequences/S_movingPlatforms': Can't find file.
+[2023.04.10-01.38.49:710][ 68]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hour_of_Code/Sequences/S_movingPlatforms.S_movingPlatforms'
+[2023.04.10-01.38.50:181][ 68]LogWorld: Bringing up level for play took: 1.267680
+[2023.04.10-01.38.50:181][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.04.10-01.38.50:189][ 68]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.04.10-01.38.50:194][ 68]PIE: Server logged in
+[2023.04.10-01.38.50:196][ 68]PIE: Play in editor total start time 1.488 seconds.
+[2023.04.10-01.38.51:317][151]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 89.284599
+[2023.04.10-01.38.51:317][151]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.38.51:874][216]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 27.84273
+[2023.04.10-01.38.52:061][238]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -8.632854
+[2023.04.10-01.38.52:070][239]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 3.089008
+[2023.04.10-01.38.52:079][240]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.224303
+[2023.04.10-01.38.52:088][241]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.24475
+[2023.04.10-01.38.52:097][242]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.387758
+[2023.04.10-01.38.52:106][243]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 18.502607
+[2023.04.10-01.38.52:136][246]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 11.426392
+[2023.04.10-01.38.52:145][247]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 10.973733
+[2023.04.10-01.38.52:153][248]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 10.553191
+[2023.04.10-01.38.52:161][249]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 12.632842
+[2023.04.10-01.38.52:178][251]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 7.677917
+[2023.04.10-01.38.52:187][252]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 6.052587
+[2023.04.10-01.38.52:195][253]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 4.498603
+[2023.04.10-01.38.52:203][254]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 2.95937
+[2023.04.10-01.38.52:212][255]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 1.395124
+[2023.04.10-01.38.52:220][256]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.135506
+[2023.04.10-01.38.52:228][257]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.669505
+[2023.04.10-01.38.52:237][258]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -3.202258
+[2023.04.10-01.38.52:246][259]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -4.746933
+[2023.04.10-01.38.52:253][260]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -6.28739
+[2023.04.10-01.38.52:262][261]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -7.846043
+[2023.04.10-01.38.52:270][262]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -9.402893
+[2023.04.10-01.38.52:278][263]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -10.970513
+[2023.04.10-01.38.52:287][264]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -12.548818
+[2023.04.10-01.38.52:296][265]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -14.142323
+[2023.04.10-01.38.52:303][266]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -15.744984
+[2023.04.10-01.38.52:312][267]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -17.360933
+[2023.04.10-01.38.52:320][268]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -16.156876
+[2023.04.10-01.38.52:329][269]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -14.471053
+[2023.04.10-01.38.52:337][270]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -14.465943
+[2023.04.10-01.38.52:346][271]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -14.915233
+[2023.04.10-01.38.52:355][272]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -15.341716
+[2023.04.10-01.38.52:363][273]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -15.748263
+[2023.04.10-01.38.52:371][274]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -7.435066
+[2023.04.10-01.38.52:380][275]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -3.840879
+[2023.04.10-01.38.52:389][276]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -2.713061
+[2023.04.10-01.38.52:397][277]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.972722
+[2023.04.10-01.38.52:405][278]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.255384
+[2023.04.10-01.38.52:413][279]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.51027
+[2023.04.10-01.38.52:421][280]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.018012
+[2023.04.10-01.38.52:429][281]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.805784
+[2023.04.10-01.38.52:438][282]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.507616
+[2023.04.10-01.38.52:446][283]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.041245
+[2023.04.10-01.38.52:455][284]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.425816
+[2023.04.10-01.38.52:464][285]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.912681
+[2023.04.10-01.38.52:472][286]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.391715
+[2023.04.10-01.38.52:480][287]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.859549
+[2023.04.10-01.38.52:489][288]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.098163
+[2023.04.10-01.38.52:498][289]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.501385
+[2023.04.10-01.38.52:507][290]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 1.58583
+[2023.04.10-01.38.52:516][291]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 2.257392
+[2023.04.10-01.38.52:524][292]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 2.652551
+[2023.04.10-01.38.52:531][293]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 2.896474
+[2023.04.10-01.38.52:540][294]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 3.119541
+[2023.04.10-01.38.52:549][295]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 3.44997
+[2023.04.10-01.38.52:558][296]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 3.814437
+[2023.04.10-01.38.52:567][297]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 3.840348
+[2023.04.10-01.38.52:575][298]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.815788
+[2023.04.10-01.38.52:583][299]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.689185
+[2023.04.10-01.38.52:591][300]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 4.949891
+[2023.04.10-01.38.52:600][301]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 4.041272
+[2023.04.10-01.38.52:609][302]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 3.066654
+[2023.04.10-01.38.52:617][303]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 2.106965
+[2023.04.10-01.38.52:626][304]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 1.189738
+[2023.04.10-01.38.52:635][305]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.28405
+[2023.04.10-01.38.52:643][306]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.628505
+[2023.04.10-01.38.52:651][307]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.52959
+[2023.04.10-01.38.52:659][308]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -2.437343
+[2023.04.10-01.38.52:667][309]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -3.347111
+[2023.04.10-01.38.52:676][310]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -4.264501
+[2023.04.10-01.38.52:684][311]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -5.183491
+[2023.04.10-01.38.52:692][312]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -6.150688
+[2023.04.10-01.38.52:701][313]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -2.973927
+[2023.04.10-01.38.52:710][314]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.49259
+[2023.04.10-01.38.52:719][315]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.876408
+[2023.04.10-01.38.52:727][316]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.452428
+[2023.04.10-01.38.52:736][317]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.057558
+[2023.04.10-01.38.52:745][318]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.380327
+[2023.04.10-01.38.52:753][319]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.754786
+[2023.04.10-01.38.52:762][320]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 1.196497
+[2023.04.10-01.38.52:770][321]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.961988
+[2023.04.10-01.38.52:779][322]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.480098
+[2023.04.10-01.38.52:789][323]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.325
+[2023.04.10-01.38.52:797][324]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.466579
+[2023.04.10-01.38.52:806][325]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.241804
+[2023.04.10-01.38.52:815][326]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.016957
+[2023.04.10-01.38.52:824][327]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.024887
+[2023.04.10-01.38.52:834][328]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.026142
+[2023.04.10-01.38.52:843][329]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.013998
+[2023.04.10-01.38.52:851][330]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.003514
+[2023.04.10-01.38.52:861][331]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.007394
+[2023.04.10-01.38.52:870][332]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.0116
+[2023.04.10-01.38.52:879][333]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.001975
+[2023.04.10-01.38.52:888][334]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.002253
+[2023.04.10-01.38.52:897][335]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.001152
+[2023.04.10-01.38.52:906][336]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.004661
+[2023.04.10-01.38.52:915][337]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.001992
+[2023.04.10-01.38.52:925][338]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.001926
+[2023.04.10-01.38.52:935][339]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.005343
+[2023.04.10-01.38.52:945][340]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.001887
+[2023.04.10-01.38.52:954][341]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.001501
+[2023.04.10-01.38.52:964][342]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.001083
+[2023.04.10-01.38.52:975][343]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.000314
+[2023.04.10-01.38.52:985][344]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.000288
+[2023.04.10-01.38.52:996][345]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.000059
+[2023.04.10-01.38.53:008][346]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.000629
+[2023.04.10-01.38.53:018][347]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.000138
+[2023.04.10-01.38.53:027][348]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.000078
+[2023.04.10-01.38.58:207][947]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -62.701904
+[2023.04.10-01.38.58:209][947]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.05981
+[2023.04.10-01.38.58:218][948]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -3.741154
+[2023.04.10-01.38.58:218][948]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -77.744637
+[2023.04.10-01.38.58:227][949]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -62.137638
+[2023.04.10-01.38.58:228][949]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -9.078383
+[2023.04.10-01.38.58:239][950]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -5.394773
+[2023.04.10-01.38.58:246][951]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -58.720047
+[2023.04.10-01.38.58:248][951]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -25.735008
+[2023.04.10-01.38.58:258][952]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -12.818321
+[2023.04.10-01.38.58:267][953]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -9.883415
+[2023.04.10-01.38.58:275][954]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -57.877537
+[2023.04.10-01.38.58:277][954]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -24.08095
+[2023.04.10-01.38.58:287][955]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -16.841957
+[2023.04.10-01.38.58:295][956]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -54.808933
+[2023.04.10-01.38.58:297][956]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -35.479313
+[2023.04.10-01.38.58:306][957]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -22.976219
+[2023.04.10-01.38.58:316][958]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -22.862391
+[2023.04.10-01.38.58:325][959]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -53.465607
+[2023.04.10-01.38.58:326][959]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -43.85939
+[2023.04.10-01.38.58:336][960]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -35.528473
+[2023.04.10-01.38.58:346][961]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -34.32906
+[2023.04.10-01.38.58:355][962]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -35.000187
+[2023.04.10-01.38.58:365][963]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -49.858521
+[2023.04.10-01.38.58:367][963]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -51.930683
+[2023.04.10-01.38.58:377][964]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.701008
+[2023.04.10-01.38.58:387][965]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.89735
+[2023.04.10-01.38.58:396][966]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.550297
+[2023.04.10-01.38.58:404][967]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.416157
+[2023.04.10-01.38.58:414][968]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.423344
+[2023.04.10-01.38.58:423][969]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.987537
+[2023.04.10-01.38.58:432][970]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -46.225937
+[2023.04.10-01.38.58:443][971]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -46.972851
+[2023.04.10-01.38.58:452][972]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -64.712288
+[2023.04.10-01.38.58:552][983]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -21.489464
+[2023.04.10-01.38.58:562][984]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -53.979931
+[2023.04.10-01.38.58:571][985]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -54.798199
+[2023.04.10-01.38.58:582][986]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -48.516521
+[2023.04.10-01.38.58:591][987]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -38.415081
+[2023.04.10-01.38.58:599][988]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -16.42758
+[2023.04.10-01.38.58:600][988]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -54.789555
+[2023.04.10-01.38.58:611][989]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -49.665558
+[2023.04.10-01.38.58:677][996]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.604641
+[2023.04.10-01.38.58:686][997]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -31.123652
+[2023.04.10-01.38.58:695][998]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -32.49778
+[2023.04.10-01.38.58:704][999]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -35.307636
+[2023.04.10-01.38.58:713][  0]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -38.09306
+[2023.04.10-01.38.58:725][  1]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -41.014553
+[2023.04.10-01.38.58:753][  4]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -38.169483
+[2023.04.10-01.38.58:765][  5]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -41.81826
+[2023.04.10-01.38.58:787][  7]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -48.748775
+[2023.04.10-01.38.58:798][  8]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -51.790539
+[2023.04.10-01.38.58:818][ 10]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -57.143795
+[2023.04.10-01.38.58:827][ 11]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -59.665661
+[2023.04.10-01.38.58:837][ 12]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -60.725491
+[2023.04.10-01.38.58:865][ 15]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -69.539429
+[2023.04.10-01.38.58:874][ 16]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -72.126396
+[2023.04.10-01.38.58:883][ 17]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -74.355736
+[2023.04.10-01.38.58:892][ 18]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -77.043953
+[2023.04.10-01.38.58:902][ 19]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -77.787056
+[2023.04.10-01.38.58:911][ 20]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -77.79718
+[2023.04.10-01.38.58:920][ 21]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -79.266937
+[2023.04.10-01.38.58:929][ 22]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -81.333717
+[2023.04.10-01.38.58:939][ 23]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -83.620369
+[2023.04.10-01.38.58:948][ 24]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -85.86129
+[2023.04.10-01.38.58:957][ 25]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -87.567299
+[2023.04.10-01.38.58:967][ 26]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -15.907413
+[2023.04.10-01.38.58:977][ 27]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -14.452641
+[2023.04.10-01.38.58:986][ 28]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -17.27556
+[2023.04.10-01.38.58:995][ 29]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -19.95232
+[2023.04.10-01.38.59:003][ 30]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -21.982565
+[2023.04.10-01.38.59:014][ 31]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -23.782549
+[2023.04.10-01.38.59:024][ 32]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -25.965942
+[2023.04.10-01.38.59:035][ 33]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -27.730316
+[2023.04.10-01.38.59:046][ 34]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -29.860189
+[2023.04.10-01.38.59:057][ 35]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -32.252888
+[2023.04.10-01.38.59:068][ 36]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.957218
+[2023.04.10-01.38.59:079][ 37]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -35.060162
+[2023.04.10-01.38.59:090][ 38]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -37.818363
+[2023.04.10-01.38.59:100][ 39]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -40.229591
+[2023.04.10-01.38.59:110][ 40]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -42.62608
+[2023.04.10-01.38.59:121][ 41]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -44.638245
+[2023.04.10-01.38.59:132][ 42]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -46.828629
+[2023.04.10-01.38.59:144][ 43]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -49.257198
+[2023.04.10-01.38.59:155][ 44]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -51.529568
+[2023.04.10-01.38.59:167][ 45]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -54.160206
+[2023.04.10-01.38.59:177][ 46]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -56.747593
+[2023.04.10-01.38.59:187][ 47]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -59.044331
+[2023.04.10-01.38.59:198][ 48]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -61.380615
+[2023.04.10-01.38.59:208][ 49]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -63.925968
+[2023.04.10-01.38.59:219][ 50]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -66.602272
+[2023.04.10-01.38.59:231][ 51]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -69.431702
+[2023.04.10-01.38.59:244][ 52]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.289051
+[2023.04.10-01.38.59:265][ 54]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -40.468521
+[2023.04.10-01.38.59:276][ 55]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -42.665916
+[2023.04.10-01.38.59:285][ 56]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -44.383808
+[2023.04.10-01.38.59:296][ 57]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.840946
+[2023.04.10-01.38.59:305][ 58]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -46.193867
+[2023.04.10-01.38.59:316][ 59]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -48.610516
+[2023.04.10-01.38.59:326][ 60]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -40.338573
+[2023.04.10-01.38.59:336][ 61]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -37.670612
+[2023.04.10-01.38.59:346][ 62]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -37.037579
+[2023.04.10-01.38.59:357][ 63]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -37.547043
+[2023.04.10-01.38.59:368][ 64]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -37.611866
+[2023.04.10-01.38.59:380][ 65]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -38.189415
+[2023.04.10-01.38.59:391][ 66]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -38.91782
+[2023.04.10-01.38.59:400][ 67]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -39.298634
+[2023.04.10-01.38.59:411][ 68]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -39.875217
+[2023.04.10-01.38.59:420][ 69]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -40.308071
+[2023.04.10-01.38.59:429][ 70]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -40.768768
+[2023.04.10-01.38.59:439][ 71]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -41.294781
+[2023.04.10-01.38.59:448][ 72]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -41.736725
+[2023.04.10-01.38.59:458][ 73]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -42.493618
+[2023.04.10-01.38.59:467][ 74]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -42.99144
+[2023.04.10-01.38.59:475][ 75]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -43.766506
+[2023.04.10-01.38.59:483][ 76]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -44.345501
+[2023.04.10-01.38.59:492][ 77]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -44.998371
+[2023.04.10-01.38.59:500][ 78]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -45.758457
+[2023.04.10-01.38.59:510][ 79]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -46.584507
+[2023.04.10-01.38.59:518][ 80]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -47.470779
+[2023.04.10-01.38.59:527][ 81]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -48.318817
+[2023.04.10-01.38.59:536][ 82]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -49.254044
+[2023.04.10-01.38.59:546][ 83]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -50.221302
+[2023.04.10-01.38.59:555][ 84]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -51.480312
+[2023.04.10-01.38.59:564][ 85]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.111923
+[2023.04.10-01.38.59:572][ 86]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.231197
+[2023.04.10-01.38.59:581][ 87]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.838428
+[2023.04.10-01.38.59:590][ 88]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -8.946534
+[2023.04.10-01.38.59:599][ 89]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -10.708951
+[2023.04.10-01.38.59:608][ 90]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -11.285319
+[2023.04.10-01.38.59:616][ 91]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -11.83521
+[2023.04.10-01.38.59:624][ 92]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -12.192288
+[2023.04.10-01.38.59:633][ 93]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -12.468705
+[2023.04.10-01.38.59:643][ 94]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -2.799438
+[2023.04.10-01.38.59:651][ 95]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -4.967384
+[2023.04.10-01.38.59:661][ 96]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -6.350069
+[2023.04.10-01.38.59:670][ 97]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -6.229028
+[2023.04.10-01.38.59:679][ 98]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -8.112728
+[2023.04.10-01.38.59:688][ 99]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -9.567597
+[2023.04.10-01.38.59:696][100]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -10.842299
+[2023.04.10-01.38.59:705][101]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -11.964709
+[2023.04.10-01.38.59:714][102]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -13.175494
+[2023.04.10-01.38.59:722][103]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -14.351825
+[2023.04.10-01.38.59:730][104]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -15.387479
+[2023.04.10-01.38.59:739][105]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -16.503437
+[2023.04.10-01.38.59:746][106]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -16.044458
+[2023.04.10-01.38.59:747][106]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 4.377266
+[2023.04.10-01.38.59:754][107]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 4.523749
+[2023.04.10-01.38.59:764][108]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 19.713158
+[2023.04.10-01.38.59:816][114]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 40.577164
+[2023.04.10-01.38.59:867][120]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 50.6982
+[2023.04.10-01.38.59:887][122]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 46.71175
+[2023.04.10-01.38.59:895][123]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 54.471027
+[2023.04.10-01.38.59:903][124]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 54.394733
+[2023.04.10-01.38.59:913][125]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.564457
+[2023.04.10-01.38.59:921][126]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 50.259418
+[2023.04.10-01.38.59:929][127]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 48.245632
+[2023.04.10-01.38.59:936][128]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 78.787361
+[2023.04.10-01.38.59:936][128]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.38.59:938][128]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 60.12466
+[2023.04.10-01.38.59:946][129]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 66.845772
+[2023.04.10-01.38.59:948][129]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 71.44429
+[2023.04.10-01.38.59:956][130]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 73.075798
+[2023.04.10-01.38.59:964][131]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 72.058266
+[2023.04.10-01.38.59:974][132]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 69.791084
+[2023.04.10-01.38.59:982][133]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.426727
+[2023.04.10-01.38.59:989][134]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 88.084633
+[2023.04.10-01.38.59:991][134]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 75.004189
+[2023.04.10-01.38.59:999][135]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 72.000778
+[2023.04.10-01.39.00:010][136]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.525993
+[2023.04.10-01.39.00:019][137]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 65.135765
+[2023.04.10-01.39.00:027][138]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 89.212891
+[2023.04.10-01.39.00:028][138]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 71.701782
+[2023.04.10-01.39.00:038][139]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.914345
+[2023.04.10-01.39.00:046][140]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 65.69886
+[2023.04.10-01.39.00:072][143]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 58.444489
+[2023.04.10-01.39.00:080][144]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.979301
+[2023.04.10-01.39.00:089][145]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 72.427818
+[2023.04.10-01.39.00:129][150]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 99.698723
+[2023.04.10-01.39.00:129][150]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.00:139][151]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 122.086739
+[2023.04.10-01.39.00:146][152]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 135.763046
+[2023.04.10-01.39.00:163][154]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 135.646347
+[2023.04.10-01.39.00:241][163]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 126.550331
+[2023.04.10-01.39.00:250][164]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 123.015625
+[2023.04.10-01.39.00:258][165]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 117.29554
+[2023.04.10-01.39.00:284][168]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 107.509827
+[2023.04.10-01.39.00:293][169]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 121.099159
+[2023.04.10-01.39.00:301][170]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 118.780968
+[2023.04.10-01.39.00:471][189]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.374908
+[2023.04.10-01.39.00:480][190]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 135.841797
+[2023.04.10-01.39.00:766][222]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 60.022427
+[2023.04.10-01.39.00:775][223]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.435425
+[2023.04.10-01.39.00:783][224]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 66.6987
+[2023.04.10-01.39.00:818][228]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 82.25293
+[2023.04.10-01.39.00:818][228]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.00:869][233]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.743439
+[2023.04.10-01.39.00:878][234]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 64.625343
+[2023.04.10-01.39.00:888][235]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 63.845764
+[2023.04.10-01.39.00:898][236]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 60.692883
+[2023.04.10-01.39.00:909][237]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 57.451092
+[2023.04.10-01.39.00:930][239]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 51.089157
+[2023.04.10-01.39.00:940][240]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 48.148071
+[2023.04.10-01.39.00:951][241]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 45.81551
+[2023.04.10-01.39.00:962][242]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 42.864365
+[2023.04.10-01.39.00:983][244]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.618591
+[2023.04.10-01.39.00:994][245]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 33.498573
+[2023.04.10-01.39.01:006][246]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 30.334709
+[2023.04.10-01.39.01:016][247]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.621471
+[2023.04.10-01.39.01:026][248]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 34.121647
+[2023.04.10-01.39.01:037][249]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 44.371265
+[2023.04.10-01.39.01:047][250]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 41.359074
+[2023.04.10-01.39.01:068][252]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.529037
+[2023.04.10-01.39.01:077][253]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 39.423954
+[2023.04.10-01.39.01:087][254]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 43.210262
+[2023.04.10-01.39.01:096][255]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 44.097046
+[2023.04.10-01.39.01:106][256]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 42.175686
+[2023.04.10-01.39.01:115][257]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 40.954178
+[2023.04.10-01.39.01:124][258]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 38.827141
+[2023.04.10-01.39.01:134][259]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 37.648159
+[2023.04.10-01.39.01:143][260]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.313919
+[2023.04.10-01.39.01:152][261]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 34.25108
+[2023.04.10-01.39.01:161][262]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 32.876354
+[2023.04.10-01.39.01:169][263]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 31.265533
+[2023.04.10-01.39.01:178][264]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 29.985743
+[2023.04.10-01.39.01:186][265]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 28.690756
+[2023.04.10-01.39.01:195][266]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 27.425207
+[2023.04.10-01.39.01:203][267]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 25.791618
+[2023.04.10-01.39.01:212][268]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 24.488993
+[2023.04.10-01.39.01:220][269]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 22.871389
+[2023.04.10-01.39.01:228][270]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 21.439087
+[2023.04.10-01.39.01:236][271]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 19.86492
+[2023.04.10-01.39.01:245][272]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 18.295506
+[2023.04.10-01.39.01:253][273]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 16.551401
+[2023.04.10-01.39.01:263][274]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 57.012829
+[2023.04.10-01.39.01:271][275]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 54.844193
+[2023.04.10-01.39.01:279][276]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.956818
+[2023.04.10-01.39.01:288][277]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 51.193298
+[2023.04.10-01.39.01:297][278]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.810413
+[2023.04.10-01.39.01:305][279]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 50.62558
+[2023.04.10-01.39.01:314][280]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 49.229416
+[2023.04.10-01.39.01:322][281]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 47.804062
+[2023.04.10-01.39.01:330][282]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 46.931118
+[2023.04.10-01.39.01:339][283]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 45.999619
+[2023.04.10-01.39.01:347][284]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 45.194489
+[2023.04.10-01.39.01:356][285]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 44.403625
+[2023.04.10-01.39.01:364][286]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 43.660187
+[2023.04.10-01.39.01:372][287]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 42.905041
+[2023.04.10-01.39.01:380][288]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 42.198933
+[2023.04.10-01.39.01:389][289]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 41.511002
+[2023.04.10-01.39.01:397][290]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 40.858295
+[2023.04.10-01.39.01:406][291]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 40.206425
+[2023.04.10-01.39.01:414][292]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 39.59325
+[2023.04.10-01.39.01:422][293]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 38.919056
+[2023.04.10-01.39.01:431][294]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 38.296982
+[2023.04.10-01.39.01:439][295]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 37.670273
+[2023.04.10-01.39.01:447][296]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 37.03191
+[2023.04.10-01.39.01:456][297]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.383057
+[2023.04.10-01.39.01:465][298]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 35.720581
+[2023.04.10-01.39.01:472][299]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 35.003979
+[2023.04.10-01.39.01:481][300]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 34.306213
+[2023.04.10-01.39.01:489][301]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 33.537731
+[2023.04.10-01.39.01:497][302]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 32.73843
+[2023.04.10-01.39.01:506][303]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 31.939178
+[2023.04.10-01.39.01:514][304]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 31.012228
+[2023.04.10-01.39.01:522][305]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 30.110886
+[2023.04.10-01.39.01:530][306]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 29.038565
+[2023.04.10-01.39.01:539][307]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 28.019705
+[2023.04.10-01.39.01:547][308]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 26.774534
+[2023.04.10-01.39.01:556][309]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 34.525948
+[2023.04.10-01.39.01:565][310]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 48.370426
+[2023.04.10-01.39.01:581][312]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 43.516804
+[2023.04.10-01.39.01:590][313]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 41.5168
+[2023.04.10-01.39.01:598][314]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 39.623245
+[2023.04.10-01.39.01:607][315]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 37.871166
+[2023.04.10-01.39.01:615][316]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.135677
+[2023.04.10-01.39.01:622][317]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 107.32653
+[2023.04.10-01.39.01:622][317]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.01:623][317]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 43.648716
+[2023.04.10-01.39.01:630][318]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -4.134103
+[2023.04.10-01.39.01:632][318]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 51.099255
+[2023.04.10-01.39.01:640][319]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 44.456982
+[2023.04.10-01.39.01:647][320]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -7.165102
+[2023.04.10-01.39.01:649][320]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 49.278797
+[2023.04.10-01.39.01:657][321]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 49.42334
+[2023.04.10-01.39.01:664][322]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.576037
+[2023.04.10-01.39.01:666][322]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.375835
+[2023.04.10-01.39.01:674][323]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 53.301708
+[2023.04.10-01.39.01:682][324]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.099121
+[2023.04.10-01.39.01:689][325]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 17.861128
+[2023.04.10-01.39.01:690][325]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.92152
+[2023.04.10-01.39.01:699][326]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.78384
+[2023.04.10-01.39.01:707][327]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 49.729092
+[2023.04.10-01.39.01:715][328]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 47.289948
+[2023.04.10-01.39.01:724][329]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 44.753635
+[2023.04.10-01.39.01:731][330]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 32.751926
+[2023.04.10-01.39.01:799][338]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 44.223202
+[2023.04.10-01.39.01:807][339]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 53.77142
+[2023.04.10-01.39.01:814][340]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 51.818329
+[2023.04.10-01.39.01:816][340]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.6287
+[2023.04.10-01.39.01:822][341]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 56.144405
+[2023.04.10-01.39.01:824][341]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 73.558342
+[2023.04.10-01.39.01:824][341]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.01:831][342]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 72.017708
+[2023.04.10-01.39.01:897][350]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 71.773537
+[2023.04.10-01.39.01:966][358]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 88.42347
+[2023.04.10-01.39.01:975][359]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 93.612663
+[2023.04.10-01.39.01:982][360]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 91.527489
+[2023.04.10-01.39.01:982][360]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.02:107][375]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 72.189476
+[2023.04.10-01.39.02:399][410]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -12.202695
+[2023.04.10-01.39.02:407][411]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 6.717451
+[2023.04.10-01.39.02:416][412]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 5.966248
+[2023.04.10-01.39.02:424][413]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 4.513273
+[2023.04.10-01.39.02:432][414]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 2.881802
+[2023.04.10-01.39.02:441][415]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 1.229571
+[2023.04.10-01.39.02:449][416]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -0.392815
+[2023.04.10-01.39.02:458][417]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -1.986806
+[2023.04.10-01.39.02:467][418]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -3.567202
+[2023.04.10-01.39.02:475][419]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -5.163622
+[2023.04.10-01.39.02:484][420]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -6.74955
+[2023.04.10-01.39.02:493][421]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -8.697399
+[2023.04.10-01.39.02:501][422]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -10.327686
+[2023.04.10-01.39.02:510][423]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -12.025246
+[2023.04.10-01.39.02:518][424]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -13.687081
+[2023.04.10-01.39.02:526][425]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -15.365346
+[2023.04.10-01.39.02:535][426]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -17.056288
+[2023.04.10-01.39.02:543][427]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -18.772371
+[2023.04.10-01.39.02:551][428]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -20.497131
+[2023.04.10-01.39.02:560][429]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -22.242449
+[2023.04.10-01.39.02:568][430]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -24.051783
+[2023.04.10-01.39.02:577][431]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -25.839075
+[2023.04.10-01.39.02:585][432]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -27.551508
+[2023.04.10-01.39.02:594][433]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -29.442596
+[2023.04.10-01.39.02:602][434]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -31.275503
+[2023.04.10-01.39.02:612][435]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -33.305656
+[2023.04.10-01.39.02:620][436]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] -35.226284
+[2023.04.10-01.39.02:628][437]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 257.979279
+[2023.04.10-01.39.02:628][437]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 162.123917
+[2023.04.10-01.39.02:635][438]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 207.240189
+[2023.04.10-01.39.02:696][445]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 132.690277
+[2023.04.10-01.39.02:702][446]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 212.971909
+[2023.04.10-01.39.02:702][446]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.02:705][446]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 123.6614
+[2023.04.10-01.39.02:711][447]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 174.041061
+[2023.04.10-01.39.02:713][447]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 123.631508
+[2023.04.10-01.39.02:728][449]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 172.431946
+[2023.04.10-01.39.02:728][449]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 172.431946
+[2023.04.10-01.39.02:730][449]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 122.5914
+[2023.04.10-01.39.02:745][451]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 190.443192
+[2023.04.10-01.39.02:745][451]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 190.443192
+[2023.04.10-01.39.02:746][451]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 118.861885
+[2023.04.10-01.39.02:761][453]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 165.406296
+[2023.04.10-01.39.02:761][453]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 165.406296
+[2023.04.10-01.39.02:763][453]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 112.760826
+[2023.04.10-01.39.02:770][454]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 147.203506
+[2023.04.10-01.39.02:770][454]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 147.203506
+[2023.04.10-01.39.02:772][454]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 108.150146
+[2023.04.10-01.39.02:869][465]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 78.955627
+[2023.04.10-01.39.02:876][466]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 201.197388
+[2023.04.10-01.39.02:876][466]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 201.197388
+[2023.04.10-01.39.02:885][467]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 180.346298
+[2023.04.10-01.39.02:885][467]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 180.346298
+[2023.04.10-01.39.02:936][473]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 220.496582
+[2023.04.10-01.39.02:936][473]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 220.496582
+[2023.04.10-01.39.02:944][474]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 209.146255
+[2023.04.10-01.39.02:944][474]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 209.146255
+[2023.04.10-01.39.02:961][476]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 236.219986
+[2023.04.10-01.39.02:961][476]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 236.219986
+[2023.04.10-01.39.03:028][484]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 273.40686
+[2023.04.10-01.39.03:028][484]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 273.40686
+[2023.04.10-01.39.03:038][485]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 169.997955
+[2023.04.10-01.39.03:046][486]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 167.582077
+[2023.04.10-01.39.03:099][492]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 151.984421
+[2023.04.10-01.39.03:107][493]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 265.811432
+[2023.04.10-01.39.03:107][493]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 265.811432
+[2023.04.10-01.39.03:108][493]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 154.666809
+[2023.04.10-01.39.03:117][494]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 208.389954
+[2023.04.10-01.39.03:117][494]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 208.389954
+[2023.04.10-01.39.03:119][494]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 147.571777
+[2023.04.10-01.39.03:127][495]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 198.455322
+[2023.04.10-01.39.03:127][495]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 198.455322
+[2023.04.10-01.39.03:128][495]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 148.727829
+[2023.04.10-01.39.03:135][496]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 189.905441
+[2023.04.10-01.39.03:135][496]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 189.905441
+[2023.04.10-01.39.03:137][496]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 121.819054
+[2023.04.10-01.39.03:137][496]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 162.996658
+[2023.04.10-01.39.03:144][497]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 139.978897
+[2023.04.10-01.39.03:144][497]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 139.978897
+[2023.04.10-01.39.03:146][497]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 103.910469
+[2023.04.10-01.39.03:146][497]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 122.070312
+[2023.04.10-01.39.03:152][498]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 115.843788
+[2023.04.10-01.39.03:153][498]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 115.843788
+[2023.04.10-01.39.03:155][498]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 120.990135
+[2023.04.10-01.39.03:155][498]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 132.923462
+[2023.04.10-01.39.03:162][499]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 126.415955
+[2023.04.10-01.39.03:162][499]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 126.415955
+[2023.04.10-01.39.03:164][499]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 148.686234
+[2023.04.10-01.39.03:170][500]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 149.282227
+[2023.04.10-01.39.03:170][500]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 149.282227
+[2023.04.10-01.39.03:172][500]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 138.732346
+[2023.04.10-01.39.03:265][511]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 111.014412
+[2023.04.10-01.39.03:273][512]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 110.473045
+[2023.04.10-01.39.03:282][513]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 106.929405
+[2023.04.10-01.39.03:291][514]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 104.990456
+[2023.04.10-01.39.03:300][515]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 102.58773
+[2023.04.10-01.39.03:311][516]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 99.816437
+[2023.04.10-01.39.03:318][517]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 168.227234
+[2023.04.10-01.39.03:318][517]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 168.227234
+[2023.04.10-01.39.03:319][517]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 103.688103
+[2023.04.10-01.39.03:327][518]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 102.665016
+[2023.04.10-01.39.03:327][518]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 102.665016
+[2023.04.10-01.39.03:329][518]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 106.321503
+[2023.04.10-01.39.03:344][520]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.241028
+[2023.04.10-01.39.03:344][520]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.241028
+[2023.04.10-01.39.03:346][520]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 124.278076
+[2023.04.10-01.39.03:353][521]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 124.414795
+[2023.04.10-01.39.03:353][521]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 124.414795
+[2023.04.10-01.39.03:361][522]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 146.871414
+[2023.04.10-01.39.03:361][522]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 146.871414
+[2023.04.10-01.39.03:475][535]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 118.241859
+[2023.04.10-01.39.03:484][536]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 115.060852
+[2023.04.10-01.39.03:493][537]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 112.307869
+[2023.04.10-01.39.03:500][538]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 215.768021
+[2023.04.10-01.39.03:500][538]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 215.768021
+[2023.04.10-01.39.03:502][538]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 115.754784
+[2023.04.10-01.39.03:509][539]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 192.658157
+[2023.04.10-01.39.03:509][539]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 192.658157
+[2023.04.10-01.39.03:511][539]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 147.585831
+[2023.04.10-01.39.03:573][546]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 221.135513
+[2023.04.10-01.39.03:635][553]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 258.019745
+[2023.04.10-01.39.03:635][553]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 258.019745
+[2023.04.10-01.39.03:644][554]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 254.54924
+[2023.04.10-01.39.03:644][554]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 254.54924
+[2023.04.10-01.39.03:646][554]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 163.57869
+[2023.04.10-01.39.03:655][555]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 155.170288
+[2023.04.10-01.39.03:662][556]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 227.88353
+[2023.04.10-01.39.03:662][556]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 227.88353
+[2023.04.10-01.39.03:664][556]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 170.306595
+[2023.04.10-01.39.03:679][558]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 243.314987
+[2023.04.10-01.39.03:679][558]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 243.314987
+[2023.04.10-01.39.03:690][559]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 148.064713
+[2023.04.10-01.39.03:696][560]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 210.429321
+[2023.04.10-01.39.03:696][560]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 210.429321
+[2023.04.10-01.39.03:699][560]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 163.652267
+[2023.04.10-01.39.03:705][561]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 218.782761
+[2023.04.10-01.39.03:705][561]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 218.782761
+[2023.04.10-01.39.03:707][561]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 168.559113
+[2023.04.10-01.39.03:722][563]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 221.311447
+[2023.04.10-01.39.03:722][563]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 221.311447
+[2023.04.10-01.39.03:724][563]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 172.828537
+[2023.04.10-01.39.03:730][564]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 223.009079
+[2023.04.10-01.39.03:730][564]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 223.009079
+[2023.04.10-01.39.03:732][564]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 160.680618
+[2023.04.10-01.39.03:740][565]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 182.753555
+[2023.04.10-01.39.03:740][565]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 182.753555
+[2023.04.10-01.39.03:742][565]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 162.371506
+[2023.04.10-01.39.03:908][584]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 179.822952
+[2023.04.10-01.39.03:908][584]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 179.822952
+[2023.04.10-01.39.03:911][584]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 108.898445
+[2023.04.10-01.39.03:920][585]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 146.118835
+[2023.04.10-01.39.03:920][585]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 146.118835
+[2023.04.10-01.39.03:922][585]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.953957
+[2023.04.10-01.39.03:931][586]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 103.854347
+[2023.04.10-01.39.03:941][587]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.759056
+[2023.04.10-01.39.03:947][588]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 157.521072
+[2023.04.10-01.39.03:947][588]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 157.521072
+[2023.04.10-01.39.03:949][588]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.593933
+[2023.04.10-01.39.03:956][589]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 156.113327
+[2023.04.10-01.39.03:956][589]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 156.113327
+[2023.04.10-01.39.03:958][589]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 98.661415
+[2023.04.10-01.39.03:965][590]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 132.385513
+[2023.04.10-01.39.03:965][590]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 132.385513
+[2023.04.10-01.39.03:967][590]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.316689
+[2023.04.10-01.39.03:974][591]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 132.544586
+[2023.04.10-01.39.03:974][591]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 132.544586
+[2023.04.10-01.39.03:976][591]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 100.789391
+[2023.04.10-01.39.03:982][592]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 133.117844
+[2023.04.10-01.39.03:982][592]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 133.117844
+[2023.04.10-01.39.03:984][592]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 98.660652
+[2023.04.10-01.39.03:992][593]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 128.879562
+[2023.04.10-01.39.03:992][593]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 128.879562
+[2023.04.10-01.39.03:994][593]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 97.181702
+[2023.04.10-01.39.04:002][594]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 94.400856
+[2023.04.10-01.39.04:028][597]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 84.180168
+[2023.04.10-01.39.04:036][598]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 80.934425
+[2023.04.10-01.39.04:043][599]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 146.711227
+[2023.04.10-01.39.04:043][599]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 146.711227
+[2023.04.10-01.39.04:045][599]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 78.324318
+[2023.04.10-01.39.04:051][600]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 142.864487
+[2023.04.10-01.39.04:051][600]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 142.864487
+[2023.04.10-01.39.04:053][600]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 106.765228
+[2023.04.10-01.39.04:077][603]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 176.696976
+[2023.04.10-01.39.04:077][603]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 176.696976
+[2023.04.10-01.39.04:103][606]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 210.853592
+[2023.04.10-01.39.04:103][606]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 210.853592
+[2023.04.10-01.39.04:179][614]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 252.220261
+[2023.04.10-01.39.04:179][614]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 252.220261
+[2023.04.10-01.39.04:181][614]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 141.723145
+[2023.04.10-01.39.04:188][615]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 236.705811
+[2023.04.10-01.39.04:188][615]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 236.705811
+[2023.04.10-01.39.04:190][615]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.280865
+[2023.04.10-01.39.04:198][616]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 79.673401
+[2023.04.10-01.39.04:198][616]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 79.673401
+[2023.04.10-01.39.04:201][616]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 84.503349
+[2023.04.10-01.39.04:211][617]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 80.920387
+[2023.04.10-01.39.04:220][618]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 62.593525
+[2023.04.10-01.39.04:230][619]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.930786
+[2023.04.10-01.39.04:239][620]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.156086
+[2023.04.10-01.39.04:247][621]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 108.284485
+[2023.04.10-01.39.04:247][621]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 108.284485
+[2023.04.10-01.39.04:249][621]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 56.8974
+[2023.04.10-01.39.04:256][622]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 94.017128
+[2023.04.10-01.39.04:256][622]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 94.017128
+[2023.04.10-01.39.04:259][622]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 62.046535
+[2023.04.10-01.39.04:265][623]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.856018
+[2023.04.10-01.39.04:265][623]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.856018
+[2023.04.10-01.39.04:267][623]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 59.131939
+[2023.04.10-01.39.04:274][624]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 73.746925
+[2023.04.10-01.39.04:274][624]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 73.746925
+[2023.04.10-01.39.04:276][624]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.698818
+[2023.04.10-01.39.04:282][625]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 70.028732
+[2023.04.10-01.39.04:282][625]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 70.028732
+[2023.04.10-01.39.04:284][625]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 59.356823
+[2023.04.10-01.39.04:291][626]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.158813
+[2023.04.10-01.39.04:291][626]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.158813
+[2023.04.10-01.39.04:292][626]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 57.223888
+[2023.04.10-01.39.04:299][627]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 65.260834
+[2023.04.10-01.39.04:299][627]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 65.260834
+[2023.04.10-01.39.04:301][627]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.809643
+[2023.04.10-01.39.04:308][628]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 64.19384
+[2023.04.10-01.39.04:308][628]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 64.19384
+[2023.04.10-01.39.04:310][628]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 53.655476
+[2023.04.10-01.39.04:317][629]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 63.74741
+[2023.04.10-01.39.04:317][629]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 63.74741
+[2023.04.10-01.39.04:320][629]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 51.696461
+[2023.04.10-01.39.04:327][630]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.724659
+[2023.04.10-01.39.04:327][630]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.724659
+[2023.04.10-01.39.04:329][630]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 49.259571
+[2023.04.10-01.39.04:336][631]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.301758
+[2023.04.10-01.39.04:336][631]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.301758
+[2023.04.10-01.39.04:338][631]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 76.878891
+[2023.04.10-01.39.04:345][632]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 89.462669
+[2023.04.10-01.39.04:345][632]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 89.462669
+[2023.04.10-01.39.04:347][632]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.802429
+[2023.04.10-01.39.04:362][634]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 129.686279
+[2023.04.10-01.39.04:362][634]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 129.686279
+[2023.04.10-01.39.04:406][639]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 180.273239
+[2023.04.10-01.39.04:406][639]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 180.273239
+[2023.04.10-01.39.04:452][644]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.038597
+[2023.04.10-01.39.04:463][645]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 82.610832
+[2023.04.10-01.39.04:471][646]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 79.419235
+[2023.04.10-01.39.04:487][648]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 179.215332
+[2023.04.10-01.39.04:487][648]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 179.215332
+[2023.04.10-01.39.04:489][648]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 176.17749
+[2023.04.10-01.39.04:489][648]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 73.410454
+[2023.04.10-01.39.04:496][649]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 78.586189
+[2023.04.10-01.39.04:496][649]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.04:496][649]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 78.586189
+[2023.04.10-01.39.04:497][649]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.0961
+[2023.04.10-01.39.04:617][663]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 104.257149
+[2023.04.10-01.39.04:617][663]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 104.257149
+[2023.04.10-01.39.04:677][670]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 166.332016
+[2023.04.10-01.39.04:710][673]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 66.986961
+[2023.04.10-01.39.04:719][674]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 77.127007
+[2023.04.10-01.39.04:728][675]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 74.99765
+[2023.04.10-01.39.04:737][676]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.382057
+[2023.04.10-01.39.04:744][677]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 205.528244
+[2023.04.10-01.39.04:746][677]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 70.760704
+[2023.04.10-01.39.04:752][678]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 197.819946
+[2023.04.10-01.39.04:752][678]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 197.819946
+[2023.04.10-01.39.04:753][678]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 50.076916
+[2023.04.10-01.39.04:760][679]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 134.32695
+[2023.04.10-01.39.04:760][679]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 134.32695
+[2023.04.10-01.39.04:762][679]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 46.332142
+[2023.04.10-01.39.04:769][680]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 63.246075
+[2023.04.10-01.39.04:770][680]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 49.854187
+[2023.04.10-01.39.04:777][681]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 57.571789
+[2023.04.10-01.39.04:777][681]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 57.571789
+[2023.04.10-01.39.04:779][681]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 54.444763
+[2023.04.10-01.39.04:794][683]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 58.056049
+[2023.04.10-01.39.04:796][683]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 57.21814
+[2023.04.10-01.39.04:805][684]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.019192
+[2023.04.10-01.39.04:813][685]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 53.357605
+[2023.04.10-01.39.04:819][686]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 63.298931
+[2023.04.10-01.39.04:819][686]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 63.298931
+[2023.04.10-01.39.04:821][686]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 58.359455
+[2023.04.10-01.39.04:830][687]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 56.194458
+[2023.04.10-01.39.04:836][688]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 62.62019
+[2023.04.10-01.39.04:836][688]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 62.62019
+[2023.04.10-01.39.04:838][688]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 61.324799
+[2023.04.10-01.39.04:847][689]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 59.508877
+[2023.04.10-01.39.04:854][690]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 65.89547
+[2023.04.10-01.39.04:854][690]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 65.89547
+[2023.04.10-01.39.04:856][690]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 64.108757
+[2023.04.10-01.39.04:862][691]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.764702
+[2023.04.10-01.39.04:862][691]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.764702
+[2023.04.10-01.39.04:865][691]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 68.97982
+[2023.04.10-01.39.04:873][692]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 67.268936
+[2023.04.10-01.39.04:879][693]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 71.642799
+[2023.04.10-01.39.04:879][693]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.04:879][693]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 71.642799
+[2023.04.10-01.39.04:881][693]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 80.544746
+[2023.04.10-01.39.04:888][694]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 83.991982
+[2023.04.10-01.39.04:890][694]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 96.680077
+[2023.04.10-01.39.04:947][701]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 96.176414
+[2023.04.10-01.39.04:982][705]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 92.991966
+[2023.04.10-01.39.04:984][705]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.488934
+[2023.04.10-01.39.04:990][706]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 24.859634
+[2023.04.10-01.39.04:999][707]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.062084
+[2023.04.10-01.39.04:999][707]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 36.062084
+[2023.04.10-01.39.05:025][710]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.355865
+[2023.04.10-01.39.05:025][710]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 55.355865
+[2023.04.10-01.39.05:060][714]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 51.027386
+[2023.04.10-01.39.05:067][715]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 43.372147
+[2023.04.10-01.39.05:067][715]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 43.372147
+[2023.04.10-01.39.05:070][715]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 52.486774
+[2023.04.10-01.39.05:078][716]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.128489
+[2023.04.10-01.39.05:078][716]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 0.128489
+[2023.04.10-01.39.05:081][716]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 54.213146
+[2023.04.10-01.39.05:089][717]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 9.953794
+[2023.04.10-01.39.05:089][717]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 9.953794
+[2023.04.10-01.39.05:091][717]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 82.6017
+[2023.04.10-01.39.05:109][719]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 45.256714
+[2023.04.10-01.39.05:109][719]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 45.256714
+[2023.04.10-01.39.05:111][719]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 103.351952
+[2023.04.10-01.39.05:111][719]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.05:187][728]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 109.711517
+[2023.04.10-01.39.05:207][730]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 99.214882
+[2023.04.10-01.39.05:215][731]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 103.328545
+[2023.04.10-01.39.05:223][732]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 100.595703
+[2023.04.10-01.39.05:230][733]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 110.583473
+[2023.04.10-01.39.05:230][733]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 110.583473
+[2023.04.10-01.39.05:232][733]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 107.722099
+[2023.04.10-01.39.05:240][734]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 104.006554
+[2023.04.10-01.39.05:247][735]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.850945
+[2023.04.10-01.39.05:247][735]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.850945
+[2023.04.10-01.39.05:249][735]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.795815
+[2023.04.10-01.39.05:256][736]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 106.936523
+[2023.04.10-01.39.05:256][736]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 106.936523
+[2023.04.10-01.39.05:258][736]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 99.472565
+[2023.04.10-01.39.05:264][737]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 108.896324
+[2023.04.10-01.39.05:264][737]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 108.896324
+[2023.04.10-01.39.05:266][737]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 97.789429
+[2023.04.10-01.39.05:273][738]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 109.996513
+[2023.04.10-01.39.05:273][738]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 109.996513
+[2023.04.10-01.39.05:275][738]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 95.497749
+[2023.04.10-01.39.05:290][740]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 111.120445
+[2023.04.10-01.39.05:290][740]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 111.120445
+[2023.04.10-01.39.05:292][740]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 91.694908
+[2023.04.10-01.39.05:300][741]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 89.297218
+[2023.04.10-01.39.05:308][742]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 115.278137
+[2023.04.10-01.39.05:308][742]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 115.278137
+[2023.04.10-01.39.05:311][742]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 87.238037
+[2023.04.10-01.39.05:319][743]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 84.54229
+[2023.04.10-01.39.05:327][744]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 82.017174
+[2023.04.10-01.39.05:335][745]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 117.768944
+[2023.04.10-01.39.05:338][745]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.523674
+[2023.04.10-01.39.05:417][754]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 179.497299
+[2023.04.10-01.39.05:417][754]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] Hello
+[2023.04.10-01.39.05:419][754]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 94.899445
+[2023.04.10-01.39.05:428][755]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 98.168396
+[2023.04.10-01.39.05:435][756]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 212.11377
+[2023.04.10-01.39.05:435][756]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 212.11377
+[2023.04.10-01.39.05:437][756]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 105.041817
+[2023.04.10-01.39.05:444][757]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 190.793457
+[2023.04.10-01.39.05:444][757]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 190.793457
+[2023.04.10-01.39.05:446][757]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 120.443886
+[2023.04.10-01.39.05:514][765]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 227.330429
+[2023.04.10-01.39.05:514][765]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 227.330429
+[2023.04.10-01.39.05:542][768]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 100.305016
+[2023.04.10-01.39.05:550][769]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 95.649849
+[2023.04.10-01.39.05:557][770]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 231.502548
+[2023.04.10-01.39.05:557][770]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 231.502548
+[2023.04.10-01.39.05:595][774]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 104.295319
+[2023.04.10-01.39.05:604][775]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 114.06974
+[2023.04.10-01.39.05:612][776]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 122.498779
+[2023.04.10-01.39.05:620][777]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 213.20018
+[2023.04.10-01.39.05:620][777]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 213.20018
+[2023.04.10-01.39.05:678][783]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 121.066772
+[2023.04.10-01.39.05:727][788]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 267.293427
+[2023.04.10-01.39.05:727][788]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 267.293427
+[2023.04.10-01.39.05:786][794]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 116.506439
+[2023.04.10-01.39.05:796][795]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 126.123512
+[2023.04.10-01.39.05:802][796]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 254.840775
+[2023.04.10-01.39.05:921][809]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 262.91098
+[2023.04.10-01.39.05:969][814]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 114.530403
+[2023.04.10-01.39.05:978][815]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 112.625763
+[2023.04.10-01.39.06:030][820]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 101.564537
+[2023.04.10-01.39.06:039][821]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 100.373627
+[2023.04.10-01.39.06:050][822]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 123.245461
+[2023.04.10-01.39.06:058][823]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 197.034256
+[2023.04.10-01.39.06:079][825]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 178.184982
+[2023.04.10-01.39.06:167][834]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 112.793312
+[2023.04.10-01.39.06:176][835]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 109.898682
+[2023.04.10-01.39.06:185][836]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 106.800407
+[2023.04.10-01.39.06:195][837]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 103.451332
+[2023.04.10-01.39.06:203][838]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 116.313332
+[2023.04.10-01.39.06:213][839]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 121.958839
+[2023.04.10-01.39.06:229][841]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 102.660339
+[2023.04.10-01.39.06:402][859]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 72.581886
+[2023.04.10-01.39.06:412][860]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 76.370918
+[2023.04.10-01.39.06:448][864]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 84.613335
+[2023.04.10-01.39.06:492][869]LogBlueprintUserMessages: [SM_PuzzleSphere_A2_Blueprint] 140.387009
+[2023.04.10-01.39.06:803][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-01.39.06:804][901]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2023.04.10-01.39.06:806][901]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-01.39.06:809][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-01.39.06:817][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-01.39.06:824][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-01.39.06:850][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-01.39.06:855][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-01.39.06:856][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-01.39.06:868][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-01.39.06:897][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.04.10-01.39.06:924][902]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.04.10-01.39.06:954][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.04.10-01.39.20:321][395]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.10-01.39.23:362][395]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.042 s
+[2023.04.10-01.39.23:404][395]LogOutputDevice: Error: === Handled ensure: ===
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: 
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: Stack: 
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff94cd1d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff94cbc2141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff94cbc0db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff94cbce88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff94cc46b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff94cc44089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96ea6fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96ea6faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96ea71ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96ea71ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96ea6faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96ea71ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c284a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c283dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c286d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c1b252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96c287aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96e83977e UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96e86b93e UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96e83a0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96e891e57 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff96e891659 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff68040ae49 UE4Editor.exe!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff68042117c UE4Editor.exe!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff68042125a UE4Editor.exe!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff6804352bd UE4Editor.exe!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ff680437fea UE4Editor.exe!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ffa157f7614 KERNEL32.DLL!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: [Callstack] 0x00007ffa15e626a1 ntdll.dll!UnknownFunction []
+[2023.04.10-01.39.23:405][395]LogOutputDevice: Error: 

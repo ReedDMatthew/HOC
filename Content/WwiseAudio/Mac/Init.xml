@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\Content\WwiseAudio\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>J:\Game Design Projects\Contracts\UnrealHourOfCode\UnrealEngineHourofCode\UnrealEngineHourofCode_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="867537424">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="1237654756" Name="Interior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Reverb" GUID="{4506CD56-FDAB-4C07-B857-793E441FCF91}"/>
+				<AuxBus Id="1432176794" Name="Exterior_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Exterior_Reverb" GUID="{420C488E-612A-4DC7-9ED7-E7CEB977D43E}"/>
+				<AuxBus Id="2224154988" Name="Interior_Small_Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Small_Reverb" GUID="{C367B954-D858-4EE8-BF04-B3D78F2BAB0A}"/>
+				<AuxBus Id="2652468637" Name="Interior_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World\Interior_Large" GUID="{9C962A20-0F04-41E5-A994-EA4ECAA67272}"/>
+			</IncludedAuxBusses>
+			<GameParameters>
+				<GameParameter Id="1006694123" Name="Music_Volume" ObjectPath="\Game Parameters\Default Work Unit\Music_Volume" GUID="{3E54A991-D4FB-4A76-8B61-B6AAFD73341A}"/>
+				<GameParameter Id="1564184899" Name="SFX_Volume" ObjectPath="\Game Parameters\Default Work Unit\SFX_Volume" GUID="{E255F143-FDD6-4C6F-99DB-46BBDD35CB50}"/>
+				<GameParameter Id="4179668880" Name="Master_Volume" ObjectPath="\Game Parameters\Default Work Unit\Master_Volume" GUID="{416668FD-1668-40C4-94E9-31B69812AEE1}"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
